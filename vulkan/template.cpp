@@ -214,6 +214,47 @@ private:
     commandPool = device.createCommandPool(poolInfo);
   }
 
+  uint32_t findMemoryType(uint32_t typeFilter,
+                          vk::MemoryPropertyFlags properties) {
+    vk::PhysicalDeviceMemoryProperties memProperties =
+        physicalDevice.getMemoryProperties();
+
+    for (uint32_t i = 0; i < memProperties.memoryTypeCount; i++) {
+      if ((typeFilter & (1 << i)) &&
+          (memProperties.memoryTypes[i].propertyFlags & properties) ==
+              properties) {
+        return i;
+      }
+    }
+
+    throw std::runtime_error("failed to find suitable memory type!");
+  }
+
+  void createBuffer(vk::DeviceSize size, vk::BufferUsageFlags usage,
+                    vk::MemoryPropertyFlags properties, vk::Buffer &buffer,
+                    vk::DeviceMemory &bufferMemory) {
+    vk::BufferCreateInfo bufferInfo;
+    bufferInfo.size = size;
+    bufferInfo.usage = usage;
+    bufferInfo.sharingMode = vk::SharingMode::eExclusive;
+
+    buffer = device.createBuffer(bufferInfo);
+
+    vk::MemoryRequirements memRequirements =
+        device.getBufferMemoryRequirements(buffer);
+
+    vk::MemoryAllocateInfo allocInfo;
+    allocInfo.allocationSize = memRequirements.size;
+    allocInfo.memoryTypeIndex =
+        findMemoryType(memRequirements.memoryTypeBits, properties);
+
+    bufferMemory = device.allocateMemory(allocInfo);
+
+    device.bindBufferMemory(buffer, bufferMemory, 0);
+  }
+
+  void createBuffer() {}
+
   void init() {
     createInstance();
     pickPhysicalDevice();
@@ -221,6 +262,12 @@ private:
     createDescriptorSetLayout();
     createComputePipeline();
     createCommandPool();
+    createBuffer();
+    // allocateBufferMemory();
+    // createDescriptorPool();
+    // createDesctiptorSets();
+    // createCommandBuffer();
+    // recordCommandBuffer();
   };
 
   void compute() {};
