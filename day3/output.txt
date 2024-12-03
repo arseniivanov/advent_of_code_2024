@@ -1,0 +1,2805 @@
+Initial string: @why(692,996)[&}}^where(81,407)mul(247,89):[&[{<mul(980,958),?mul(529,895)!<#~!$&~when()+mul(519,986)what())#mul(710,934)%??*'!<mul(813,338)! +$what()<don't(){^mul(396,693)mul(337,541)}what()*<](@?~mul(64,644)[where()who()~,))mul(528,450)!' -do()who()#]where():(mul(909,368)mul(259,743)''when()^?from()]select()#;mul(227,252)<mul(118,202)-&!(when(806,911)~]who(58,451)- mul(135,37);mul(75,773)?~when()where()]mul(93,321)where(),where()!when(769,449)where(616,323)@&mul(489,237)&;do()<mul(803,622)mul(616,264)!from()why()~@],@from()mul(499,593)#<?/&(when()':mul(237,54)&-],+mul(856,447)})select()mul(540,283)don't()'@how()@mul(701,900)?!['mul(958,898)mul(403,891)+*why()&-)mul(877,695)where()&}{<when()]:[(mul(70,638)<who()[mul(219,485)[why()+% +what()*who()>do())[when()![mul(681,521)when(130,722)@ ->)<,mul(658,134)what()who()}+}@/mul(458,625)when()}&mul(390,728)don't()?)(;mul(196,925);&*#&select()'$mul(57,17)~/#,?&/mul(470,374), do()%@mul(328,216) >what()]when()mul(788,804)mul(873,961)who()^&{>when()why()mul(246,793)~)why()& '>?mul(200,670)[what()~/how()why()#)mul(914,790)>mul(296,84)$>)  mul(176,130);from()from()mul(373,460)from()*>@/when()don't()'select()>when()</@#+mul(529,694){{what()why();#mul(827,797)when()why()><(<&'mul(549,679)from()]##(#mul(149,690)^:}[$!&<* mul(340,101)who()@who(829,301)@do()mul(663,477)who()~<~:+why()what()mul(675,2)select()from(264,335)'-mul(706,937)^who(),~mul(159,226)+&@;mul(432,401),^],^]]mul(481,229)who()^+?how()who()+mul(785,889)mul(353,752)# ]mul(194,854){>from()(<:(mul(796,423)#+$why()]mul(230,206)(mul(339,962){why():%'select()/^~mul(346,831)from()#{/where()]what()mul(489,415)how()!how();select()  mul(313,553)(from();?&@mul(276,256)'$mul(84,330)/{,;mul(540,534)(^]what(648,915){+-:}how()mul(979,837)who()@{mul(766,495)who()/'+/*<mul(587,194)/how()mul(516,226)',+from()?what()>don't()@why(){<!]who()&mul(365,928)from()what()what()@why(607,617) {mul(407+#what()+mul(516,503)@&>}who()do()[<'-who())+;mul(552,743)-}&<%%!mul(680,379)'?%(;))mul(713,945)mul(344,235)]<who()[~[('mul(688,707)]?&where()'@mul(508,935)how()]where()select()do()!%]:mul(498,637)'how()& (mul(32,268)~from()from()where()/-@[*who()do()$mul(475,443^% @why()!what()mul(357,992)['mul(926,286){mul(355,744)}mul(410,461);(!:mul(133,384)from()')what()$mul(538,201)mul(336,633)select()why()>^,&%!mul(462,965)where()select()^]when()*from()<#mul(801,899)?why()?,select(){mul(163,717)mul(309,666)!?mul(244,557)[(:mul(590,151):when()from()why()mul(734,459)#[from()@mul(599,980)when(){where()&,^who()>^select()mul(832,947)@-mul(986,539)mul(355,307)-#+mul(854,733)[/({how()*^mul(696,97))+++##what()mul(880,393);??how(958,390)when()(select()^:who()mul(184,872)why() [mul(180,329)what() don't()]~/from():[<>-(mul(330,122)]don't()^*}[from()mul(147,831)-where(486,652):#who()/mul(274,754)why()+;$]#,[mul(703,607)[<]&;&&@mul(277,256),mul(106,665)
+
+Current position: 0
+Active state: true
+Found mul: 1 at absolute position 31 (relative 31)
+Found dont: 1 at absolute position 151 (relative 151)
+Processing mul: 247*89=21983 sum=21983
+
+Current position: 32
+Active state: true
+Found mul: 1 at absolute position 48 (relative 16)
+Found dont: 1 at absolute position 151 (relative 119)
+Processing mul: 980*958=938840 sum=960823
+
+Current position: 49
+Active state: true
+Found mul: 1 at absolute position 62 (relative 13)
+Found dont: 1 at absolute position 151 (relative 102)
+Processing mul: 529*895=473455 sum=1434278
+
+Current position: 63
+Active state: true
+Found mul: 1 at absolute position 89 (relative 26)
+Found dont: 1 at absolute position 151 (relative 88)
+Processing mul: 519*986=511734 sum=1946012
+
+Current position: 90
+Active state: true
+Found mul: 1 at absolute position 109 (relative 19)
+Found dont: 1 at absolute position 151 (relative 61)
+Processing mul: 710*934=663140 sum=2609152
+
+Current position: 110
+Active state: true
+Found mul: 1 at absolute position 128 (relative 18)
+Found dont: 1 at absolute position 151 (relative 41)
+Processing mul: 813*338=274794 sum=2883946
+
+Current position: 129
+Active state: true
+Found mul: 1 at absolute position 160 (relative 31)
+Found dont: 1 at absolute position 151 (relative 22)
+Found dont first, disabling
+
+Current position: 152
+Active state: false
+Looking for do(), found: 1 at position 242
+Re-enabling
+
+Current position: 243
+Active state: true
+Found mul: 1 at absolute position 262 (relative 19)
+Found dont: 1 at absolute position 607 (relative 364)
+Processing mul: 909*368=334512 sum=3218458
+
+Current position: 263
+Active state: true
+Found mul: 1 at absolute position 274 (relative 11)
+Found dont: 1 at absolute position 607 (relative 344)
+Processing mul: 259*743=192437 sum=3410895
+
+Current position: 275
+Active state: true
+Found mul: 1 at absolute position 313 (relative 38)
+Found dont: 1 at absolute position 607 (relative 332)
+Processing mul: 227*252=57204 sum=3468099
+
+Current position: 314
+Active state: true
+Found mul: 1 at absolute position 326 (relative 12)
+Found dont: 1 at absolute position 607 (relative 293)
+Processing mul: 118*202=23836 sum=3491935
+
+Current position: 327
+Active state: true
+Found mul: 1 at absolute position 370 (relative 43)
+Found dont: 1 at absolute position 607 (relative 280)
+Processing mul: 135*37=4995 sum=3496930
+
+Current position: 371
+Active state: true
+Found mul: 1 at absolute position 382 (relative 11)
+Found dont: 1 at absolute position 607 (relative 236)
+Processing mul: 75*773=57975 sum=3554905
+
+Current position: 383
+Active state: true
+Found mul: 1 at absolute position 409 (relative 26)
+Found dont: 1 at absolute position 607 (relative 224)
+Processing mul: 93*321=29853 sum=3584758
+
+Current position: 410
+Active state: true
+Found mul: 1 at absolute position 465 (relative 55)
+Found dont: 1 at absolute position 607 (relative 197)
+Processing mul: 489*237=115893 sum=3700651
+
+Current position: 466
+Active state: true
+Found mul: 1 at absolute position 484 (relative 18)
+Found dont: 1 at absolute position 607 (relative 141)
+Processing mul: 803*622=499466 sum=4200117
+
+Current position: 485
+Active state: true
+Found mul: 1 at absolute position 496 (relative 11)
+Found dont: 1 at absolute position 607 (relative 122)
+Processing mul: 616*264=162624 sum=4362741
+
+Current position: 497
+Active state: true
+Found mul: 1 at absolute position 531 (relative 34)
+Found dont: 1 at absolute position 607 (relative 110)
+Processing mul: 499*593=295907 sum=4658648
+
+Current position: 532
+Active state: true
+Found mul: 1 at absolute position 557 (relative 25)
+Found dont: 1 at absolute position 607 (relative 75)
+Processing mul: 237*54=12798 sum=4671446
+
+Current position: 558
+Active state: true
+Found mul: 1 at absolute position 573 (relative 15)
+Found dont: 1 at absolute position 607 (relative 49)
+Processing mul: 856*447=382632 sum=5054078
+
+Current position: 574
+Active state: true
+Found mul: 1 at absolute position 595 (relative 21)
+Found dont: 1 at absolute position 607 (relative 33)
+Processing mul: 540*283=152820 sum=5206898
+
+Current position: 596
+Active state: true
+Found mul: 1 at absolute position 622 (relative 26)
+Found dont: 1 at absolute position 607 (relative 11)
+Found dont first, disabling
+
+Current position: 608
+Active state: false
+Looking for do(), found: 1 at position 758
+Re-enabling
+
+Current position: 759
+Active state: true
+Found mul: 1 at absolute position 772 (relative 13)
+Found dont: 1 at absolute position 864 (relative 105)
+Processing mul: 681*521=354801 sum=5561699
+
+Current position: 773
+Active state: true
+Found mul: 1 at absolute position 804 (relative 31)
+Found dont: 1 at absolute position 864 (relative 91)
+Processing mul: 658*134=88172 sum=5649871
+
+Current position: 805
+Active state: true
+Found mul: 1 at absolute position 832 (relative 27)
+Found dont: 1 at absolute position 864 (relative 59)
+Processing mul: 458*625=286250 sum=5936121
+
+Current position: 833
+Active state: true
+Found mul: 1 at absolute position 852 (relative 19)
+Found dont: 1 at absolute position 864 (relative 31)
+Processing mul: 390*728=283920 sum=6220041
+
+Current position: 853
+Active state: true
+Found mul: 1 at absolute position 875 (relative 22)
+Found dont: 1 at absolute position 864 (relative 11)
+Found dont first, disabling
+
+Current position: 865
+Active state: false
+Looking for do(), found: 1 at position 933
+Re-enabling
+
+Current position: 934
+Active state: true
+Found mul: 1 at absolute position 939 (relative 5)
+Found dont: 1 at absolute position 1149 (relative 215)
+Processing mul: 328*216=70848 sum=6290889
+
+Current position: 940
+Active state: true
+Found mul: 1 at absolute position 966 (relative 26)
+Found dont: 1 at absolute position 1149 (relative 209)
+Processing mul: 788*804=633552 sum=6924441
+
+Current position: 967
+Active state: true
+Found mul: 1 at absolute position 978 (relative 11)
+Found dont: 1 at absolute position 1149 (relative 182)
+Processing mul: 873*961=838953 sum=7763394
+
+Current position: 979
+Active state: true
+Found mul: 1 at absolute position 1010 (relative 31)
+Found dont: 1 at absolute position 1149 (relative 170)
+Processing mul: 246*793=195078 sum=7958472
+
+Current position: 1011
+Active state: true
+Found mul: 1 at absolute position 1034 (relative 23)
+Found dont: 1 at absolute position 1149 (relative 138)
+Processing mul: 200*670=134000 sum=8092472
+
+Current position: 1035
+Active state: true
+Found mul: 1 at absolute position 1067 (relative 32)
+Found dont: 1 at absolute position 1149 (relative 114)
+Processing mul: 914*790=722060 sum=8814532
+
+Current position: 1068
+Active state: true
+Found mul: 1 at absolute position 1080 (relative 12)
+Found dont: 1 at absolute position 1149 (relative 81)
+Processing mul: 296*84=24864 sum=8839396
+
+Current position: 1081
+Active state: true
+Found mul: 1 at absolute position 1096 (relative 15)
+Found dont: 1 at absolute position 1149 (relative 68)
+Processing mul: 176*130=22880 sum=8862276
+
+Current position: 1097
+Active state: true
+Found mul: 1 at absolute position 1121 (relative 24)
+Found dont: 1 at absolute position 1149 (relative 52)
+Processing mul: 373*460=171580 sum=9033856
+
+Current position: 1122
+Active state: true
+Found mul: 1 at absolute position 1177 (relative 55)
+Found dont: 1 at absolute position 1149 (relative 27)
+Found dont first, disabling
+
+Current position: 1150
+Active state: false
+Looking for do(), found: 1 at position 1309
+Re-enabling
+
+Current position: 1310
+Active state: true
+Found mul: 1 at absolute position 1313 (relative 3)
+Found dont: 1 at absolute position 1830 (relative 520)
+Processing mul: 663*477=316251 sum=9350107
+
+Current position: 1314
+Active state: true
+Found mul: 1 at absolute position 1346 (relative 32)
+Found dont: 1 at absolute position 1830 (relative 516)
+Processing mul: 675*2=1350 sum=9351457
+
+Current position: 1347
+Active state: true
+Found mul: 1 at absolute position 1379 (relative 32)
+Found dont: 1 at absolute position 1830 (relative 483)
+Processing mul: 706*937=661522 sum=10012979
+
+Current position: 1380
+Active state: true
+Found mul: 1 at absolute position 1399 (relative 19)
+Found dont: 1 at absolute position 1830 (relative 450)
+Processing mul: 159*226=35934 sum=10048913
+
+Current position: 1400
+Active state: true
+Found mul: 1 at absolute position 1415 (relative 15)
+Found dont: 1 at absolute position 1830 (relative 430)
+Processing mul: 432*401=173232 sum=10222145
+
+Current position: 1416
+Active state: true
+Found mul: 1 at absolute position 1434 (relative 18)
+Found dont: 1 at absolute position 1830 (relative 414)
+Processing mul: 481*229=110149 sum=10332294
+
+Current position: 1435
+Active state: true
+Found mul: 1 at absolute position 1465 (relative 30)
+Found dont: 1 at absolute position 1830 (relative 395)
+Processing mul: 785*889=697865 sum=11030159
+
+Current position: 1466
+Active state: true
+Found mul: 1 at absolute position 1477 (relative 11)
+Found dont: 1 at absolute position 1830 (relative 364)
+Processing mul: 353*752=265456 sum=11295615
+
+Current position: 1478
+Active state: true
+Found mul: 1 at absolute position 1492 (relative 14)
+Found dont: 1 at absolute position 1830 (relative 352)
+Processing mul: 194*854=165676 sum=11461291
+
+Current position: 1493
+Active state: true
+Found mul: 1 at absolute position 1516 (relative 23)
+Found dont: 1 at absolute position 1830 (relative 337)
+Processing mul: 796*423=336708 sum=11797999
+
+Current position: 1517
+Active state: true
+Found mul: 1 at absolute position 1537 (relative 20)
+Found dont: 1 at absolute position 1830 (relative 313)
+Processing mul: 230*206=47380 sum=11845379
+
+Current position: 1538
+Active state: true
+Found mul: 1 at absolute position 1550 (relative 12)
+Found dont: 1 at absolute position 1830 (relative 292)
+Processing mul: 339*962=326118 sum=12171497
+
+Current position: 1551
+Active state: true
+Found mul: 1 at absolute position 1582 (relative 31)
+Found dont: 1 at absolute position 1830 (relative 279)
+Processing mul: 346*831=287526 sum=12459023
+
+Current position: 1583
+Active state: true
+Found mul: 1 at absolute position 1617 (relative 34)
+Found dont: 1 at absolute position 1830 (relative 247)
+Processing mul: 489*415=202935 sum=12661958
+
+Current position: 1618
+Active state: true
+Found mul: 1 at absolute position 1651 (relative 33)
+Found dont: 1 at absolute position 1830 (relative 212)
+Processing mul: 313*553=173089 sum=12835047
+
+Current position: 1652
+Active state: true
+Found mul: 1 at absolute position 1674 (relative 22)
+Found dont: 1 at absolute position 1830 (relative 178)
+Processing mul: 276*256=70656 sum=12905703
+
+Current position: 1675
+Active state: true
+Found mul: 1 at absolute position 1688 (relative 13)
+Found dont: 1 at absolute position 1830 (relative 155)
+Processing mul: 84*330=27720 sum=12933423
+
+Current position: 1689
+Active state: true
+Found mul: 1 at absolute position 1703 (relative 14)
+Found dont: 1 at absolute position 1830 (relative 141)
+Processing mul: 540*534=288360 sum=13221783
+
+Current position: 1704
+Active state: true
+Found mul: 1 at absolute position 1741 (relative 37)
+Found dont: 1 at absolute position 1830 (relative 126)
+Processing mul: 979*837=819423 sum=14041206
+
+Current position: 1742
+Active state: true
+Found mul: 1 at absolute position 1760 (relative 18)
+Found dont: 1 at absolute position 1830 (relative 88)
+Processing mul: 766*495=379170 sum=14420376
+
+Current position: 1761
+Active state: true
+Found mul: 1 at absolute position 1783 (relative 22)
+Found dont: 1 at absolute position 1830 (relative 69)
+Processing mul: 587*194=113878 sum=14534254
+
+Current position: 1784
+Active state: true
+Found mul: 1 at absolute position 1801 (relative 17)
+Found dont: 1 at absolute position 1830 (relative 46)
+Processing mul: 516*226=116616 sum=14650870
+
+Current position: 1802
+Active state: true
+Found mul: 1 at absolute position 1853 (relative 51)
+Found dont: 1 at absolute position 1830 (relative 28)
+Found dont first, disabling
+
+Current position: 1831
+Active state: false
+Looking for do(), found: 1 at position 1935
+Re-enabling
+
+Current position: 1936
+Active state: true
+Found mul: 1 at absolute position 1951 (relative 15)
+Found dont: 1 at absolute position 2693 (relative 757)
+Processing mul: 552*743=410136 sum=15061006
+
+Current position: 1952
+Active state: true
+Found mul: 1 at absolute position 1970 (relative 18)
+Found dont: 1 at absolute position 2693 (relative 741)
+Processing mul: 680*379=257720 sum=15318726
+
+Current position: 1971
+Active state: true
+Found mul: 1 at absolute position 1989 (relative 18)
+Found dont: 1 at absolute position 2693 (relative 722)
+Processing mul: 713*945=673785 sum=15992511
+
+Current position: 1990
+Active state: true
+Found mul: 1 at absolute position 2001 (relative 11)
+Found dont: 1 at absolute position 2693 (relative 703)
+Processing mul: 344*235=80840 sum=16073351
+
+Current position: 2002
+Active state: true
+Found mul: 1 at absolute position 2025 (relative 23)
+Found dont: 1 at absolute position 2693 (relative 691)
+Processing mul: 688*707=486416 sum=16559767
+
+Current position: 2026
+Active state: true
+Found mul: 1 at absolute position 2049 (relative 23)
+Found dont: 1 at absolute position 2693 (relative 667)
+Processing mul: 508*935=474980 sum=17034747
+
+Current position: 2050
+Active state: true
+Found mul: 1 at absolute position 2090 (relative 40)
+Found dont: 1 at absolute position 2693 (relative 643)
+Processing mul: 498*637=317226 sum=17351973
+
+Current position: 2091
+Active state: true
+Found mul: 1 at absolute position 2111 (relative 20)
+Found dont: 1 at absolute position 2693 (relative 602)
+Processing mul: 32*268=8576 sum=17360549
+
+Current position: 2112
+Active state: true
+Found mul: 1 at absolute position 2184 (relative 72)
+Found dont: 1 at absolute position 2693 (relative 581)
+Processing mul: 357*992=354144 sum=17714693
+
+Current position: 2185
+Active state: true
+Found mul: 1 at absolute position 2198 (relative 13)
+Found dont: 1 at absolute position 2693 (relative 508)
+Processing mul: 926*286=264836 sum=17979529
+
+Current position: 2199
+Active state: true
+Found mul: 1 at absolute position 2211 (relative 12)
+Found dont: 1 at absolute position 2693 (relative 494)
+Processing mul: 355*744=264120 sum=18243649
+
+Current position: 2212
+Active state: true
+Found mul: 1 at absolute position 2224 (relative 12)
+Found dont: 1 at absolute position 2693 (relative 481)
+Processing mul: 410*461=189010 sum=18432659
+
+Current position: 2225
+Active state: true
+Found mul: 1 at absolute position 2240 (relative 15)
+Found dont: 1 at absolute position 2693 (relative 468)
+Processing mul: 133*384=51072 sum=18483731
+
+Current position: 2241
+Active state: true
+Found mul: 1 at absolute position 2267 (relative 26)
+Found dont: 1 at absolute position 2693 (relative 452)
+Processing mul: 538*201=108138 sum=18591869
+
+Current position: 2268
+Active state: true
+Found mul: 1 at absolute position 2279 (relative 11)
+Found dont: 1 at absolute position 2693 (relative 425)
+Processing mul: 336*633=212688 sum=18804557
+
+Current position: 2280
+Active state: true
+Found mul: 1 at absolute position 2310 (relative 30)
+Found dont: 1 at absolute position 2693 (relative 413)
+Processing mul: 462*965=445830 sum=19250387
+
+Current position: 2311
+Active state: true
+Found mul: 1 at absolute position 2354 (relative 43)
+Found dont: 1 at absolute position 2693 (relative 382)
+Processing mul: 801*899=720099 sum=19970486
+
+Current position: 2355
+Active state: true
+Found mul: 1 at absolute position 2383 (relative 28)
+Found dont: 1 at absolute position 2693 (relative 338)
+Processing mul: 163*717=116871 sum=20087357
+
+Current position: 2384
+Active state: true
+Found mul: 1 at absolute position 2395 (relative 11)
+Found dont: 1 at absolute position 2693 (relative 309)
+Processing mul: 309*666=205794 sum=20293151
+
+Current position: 2396
+Active state: true
+Found mul: 1 at absolute position 2409 (relative 13)
+Found dont: 1 at absolute position 2693 (relative 297)
+Processing mul: 244*557=135908 sum=20429059
+
+Current position: 2410
+Active state: true
+Found mul: 1 at absolute position 2424 (relative 14)
+Found dont: 1 at absolute position 2693 (relative 283)
+Processing mul: 590*151=89090 sum=20518149
+
+Current position: 2425
+Active state: true
+Found mul: 1 at absolute position 2454 (relative 29)
+Found dont: 1 at absolute position 2693 (relative 268)
+Processing mul: 734*459=336906 sum=20855055
+
+Current position: 2455
+Active state: true
+Found mul: 1 at absolute position 2475 (relative 20)
+Found dont: 1 at absolute position 2693 (relative 238)
+Processing mul: 599*980=587020 sum=21442075
+
+Current position: 2476
+Active state: true
+Found mul: 1 at absolute position 2519 (relative 43)
+Found dont: 1 at absolute position 2693 (relative 217)
+Processing mul: 832*947=787904 sum=22229979
+
+Current position: 2520
+Active state: true
+Found mul: 1 at absolute position 2533 (relative 13)
+Found dont: 1 at absolute position 2693 (relative 173)
+Processing mul: 986*539=531454 sum=22761433
+
+Current position: 2534
+Active state: true
+Found mul: 1 at absolute position 2545 (relative 11)
+Found dont: 1 at absolute position 2693 (relative 159)
+Processing mul: 355*307=108985 sum=22870418
+
+Current position: 2546
+Active state: true
+Found mul: 1 at absolute position 2560 (relative 14)
+Found dont: 1 at absolute position 2693 (relative 147)
+Processing mul: 854*733=625982 sum=23496400
+
+Current position: 2561
+Active state: true
+Found mul: 1 at absolute position 2583 (relative 22)
+Found dont: 1 at absolute position 2693 (relative 132)
+Processing mul: 696*97=67512 sum=23563912
+
+Current position: 2584
+Active state: true
+Found mul: 1 at absolute position 2606 (relative 22)
+Found dont: 1 at absolute position 2693 (relative 109)
+Processing mul: 880*393=345840 sum=23909752
+
+Current position: 2607
+Active state: true
+Found mul: 1 at absolute position 2655 (relative 48)
+Found dont: 1 at absolute position 2693 (relative 86)
+Processing mul: 184*872=160448 sum=24070200
+
+Current position: 2656
+Active state: true
+Found mul: 1 at absolute position 2674 (relative 18)
+Found dont: 1 at absolute position 2693 (relative 37)
+Processing mul: 180*329=59220 sum=24129420
+
+Current position: 2675
+Active state: true
+Found mul: 1 at absolute position 2715 (relative 40)
+Found dont: 1 at absolute position 2693 (relative 18)
+Found dont first, disabling
+
+Current position: 2694
+Active state: false
+Looking for do(), found: 0
+No do() found, breaking
+Final sum: 24129420
+Initial string: >$~when()^;mul(914,586)why()$mul(383,297)when()when()select(85,106)select()!$;mul(566,651) mul(928,762)mul(302,399))( !)<mul(926,250))(mul(842,947)}from()mul(53,294)&mul(784,942)mul(614,108))[from()&,;mul(67,626)%-[mul(516,770)/<?}#$;({from()mul(77,888)how()what(){@/mul(392,76)how()^when()[<'where(){mul(357,569)$mul(866,257)^?what())*-who(87,183)<mul(371,728){'what()!+mul(359,893)!;who()^{)%where()/%mul(350,660)/from()select()%^+)@when()mul(331,754)} * )(mul(98,91)[/*from()?-do()^:,when())when()$~who()mul(457,779)mul(825,607)(from()from()<mul(888,364)#how(){(<})what()[mul(356,842);>-{[%;:$}mul(973,195)* #$from()who()/mul(383,305):]~}+'^what(92,64)mul(360,235who();mul(186,635)[}?,/why()#what()&select()mul(249,256)&/ mul(851,885)?:mul(797@,mul(87,662)what(309,502)$#}-mul(144,693),</from(621,475);who()+-;mul(489,471)select()where(){mul(101,882)mul(399,691) -:mul(203-how()from()when()(}'!from()>mul(148,850)*mul(781,765)select()do()?> @*mul(262^who()[&!mul(557,94)select()don't()'from()mul(850,693)mul(589,25)<select()(who()* @(]?mul(389,321)~mul(403,382)what()*,)who()when()mul(994,907)$mul(510,490)&where()mul(758+({mul(221,746)where()^!select()$mul(950,866)when(),$}how()do())<how(): ~^mul(978,411)[@how()how() mul(133,168)what()who()when()$@[(@{>mul ?;&why(),mul(285,937)mul(138,969)[/~[mul(580,479)~~^^-mul(880,273)])select()(%[select()why()mul(693,345)()why()!mul(113,820)(?%  mul(362,763);when()mul(321,344)~^){{#how()who() mul(850,506)?;][~@'<when()mul(594,30);>[mul(806,297)# ) @]when()mul(697,524)&[<--+mul(830,463)mul(172,696>how())?mul(52,131)select()how()<mul(939,710)  ~how())?mul(429,147)[-?&}what()}@+~mul(87,386)>^{:%[mul(472,843)<who(579,643)<~,**mul(749,472){from()^?who(46,513)}>who()mul(921,645)+^&how()how()(why()?*~mul(291,7)?+when()$+$&:{~mul(484,416)!+;-+mul(433,280)*!mul(442,92)where()why()where()'):how()}^don't()from(){where()how()>mul(163,420)^do()#select();'-&why(13,360)>mul(156,867)who()]how()?<mul(645,208)(mul*select()>how(129,950)+-!where()'mul(883,613)where(436,425)mul(878,282)from()from()]~?select()&{:!mul(329,320):-<?why()>@what()^mul(335,177)$#],^/select()&&from()mul(119,515)^+?~%who():!#mul(620,743):!who()/:@*$/{mul(708what(),-<{who()$what()':how(573,320)mul(85,259)why()who()#-mul(869,677)}]*{mul(6,929)- <mul(613,450),:?*/)#>mul(729,549)}]^,mul(6,598) who()^][mul(104,228);-!mul(28,630){>#what()%}{how()>#mul(827,504)-mul(613,193)who(140,26)[%?select()!]mul(707,956))#]@-:when()@<mul(391,848)?where(361,233)/%;>]who()mul(716,823)mul(619,201)when();:$>,^mul; what(535,875)[<!who(){how()how()mul(484,775)when()who()+~[',mul(611,484);/!who()*how()from()mul(475,311)/{how()^when(428,781)mul(783,439)mul(474,38)mul(188,9)]who()when(192,361)when()how()mul(297,838[{+who() }))select()-how()mul(363,38)+when()~how()[>mul(19,577)(select()* /*where()/?mul(922,251)why():!what()mul(555,531)!&(*{why()-*mul(997,855)mul(301,699)'[@when(32,211)@mul(544,929)/select()from()'select():mul@^[*#who()'~select()<mul(639,724):#;what()how()/when()mul(391,707)+ ^why()&when()$select()~%mul(822#$from()/;<#what(200,13)(@@mul(787,474)&+where()mul(161,733)
+
+Current position: 0
+Active state: true
+Found mul: 1 at absolute position 11 (relative 11)
+Found dont: 1 at absolute position 981 (relative 981)
+Processing mul: 914*586=535604 sum=535604
+
+Current position: 12
+Active state: true
+Found mul: 1 at absolute position 29 (relative 17)
+Found dont: 1 at absolute position 981 (relative 969)
+Processing mul: 383*297=113751 sum=649355
+
+Current position: 30
+Active state: true
+Found mul: 1 at absolute position 78 (relative 48)
+Found dont: 1 at absolute position 981 (relative 951)
+Processing mul: 566*651=368466 sum=1017821
+
+Current position: 79
+Active state: true
+Found mul: 1 at absolute position 91 (relative 12)
+Found dont: 1 at absolute position 981 (relative 902)
+Processing mul: 928*762=707136 sum=1724957
+
+Current position: 92
+Active state: true
+Found mul: 1 at absolute position 103 (relative 11)
+Found dont: 1 at absolute position 981 (relative 889)
+Processing mul: 302*399=120498 sum=1845455
+
+Current position: 104
+Active state: true
+Found mul: 1 at absolute position 121 (relative 17)
+Found dont: 1 at absolute position 981 (relative 877)
+Processing mul: 926*250=231500 sum=2076955
+
+Current position: 122
+Active state: true
+Found mul: 1 at absolute position 135 (relative 13)
+Found dont: 1 at absolute position 981 (relative 859)
+Processing mul: 842*947=797374 sum=2874329
+
+Current position: 136
+Active state: true
+Found mul: 1 at absolute position 154 (relative 18)
+Found dont: 1 at absolute position 981 (relative 845)
+Processing mul: 53*294=15582 sum=2889911
+
+Current position: 155
+Active state: true
+Found mul: 1 at absolute position 166 (relative 11)
+Found dont: 1 at absolute position 981 (relative 826)
+Processing mul: 784*942=738528 sum=3628439
+
+Current position: 167
+Active state: true
+Found mul: 1 at absolute position 178 (relative 11)
+Found dont: 1 at absolute position 981 (relative 814)
+Processing mul: 614*108=66312 sum=3694751
+
+Current position: 179
+Active state: true
+Found mul: 1 at absolute position 201 (relative 22)
+Found dont: 1 at absolute position 981 (relative 802)
+Processing mul: 67*626=41942 sum=3736693
+
+Current position: 202
+Active state: true
+Found mul: 1 at absolute position 215 (relative 13)
+Found dont: 1 at absolute position 981 (relative 779)
+Processing mul: 516*770=397320 sum=4134013
+
+Current position: 216
+Active state: true
+Found mul: 1 at absolute position 242 (relative 26)
+Found dont: 1 at absolute position 981 (relative 765)
+Processing mul: 77*888=68376 sum=4202389
+
+Current position: 243
+Active state: true
+Found mul: 1 at absolute position 267 (relative 24)
+Found dont: 1 at absolute position 981 (relative 738)
+Processing mul: 392*76=29792 sum=4232181
+
+Current position: 268
+Active state: true
+Found mul: 1 at absolute position 301 (relative 33)
+Found dont: 1 at absolute position 981 (relative 713)
+Processing mul: 357*569=203133 sum=4435314
+
+Current position: 302
+Active state: true
+Found mul: 1 at absolute position 314 (relative 12)
+Found dont: 1 at absolute position 981 (relative 679)
+Processing mul: 866*257=222562 sum=4657876
+
+Current position: 315
+Active state: true
+Found mul: 1 at absolute position 349 (relative 34)
+Found dont: 1 at absolute position 981 (relative 666)
+Processing mul: 371*728=270088 sum=4927964
+
+Current position: 350
+Active state: true
+Found mul: 1 at absolute position 371 (relative 21)
+Found dont: 1 at absolute position 981 (relative 631)
+Processing mul: 359*893=320587 sum=5248551
+
+Current position: 372
+Active state: true
+Found mul: 1 at absolute position 403 (relative 31)
+Found dont: 1 at absolute position 981 (relative 609)
+Processing mul: 350*660=231000 sum=5479551
+
+Current position: 404
+Active state: true
+Found mul: 1 at absolute position 441 (relative 37)
+Found dont: 1 at absolute position 981 (relative 577)
+Processing mul: 331*754=249574 sum=5729125
+
+Current position: 442
+Active state: true
+Found mul: 1 at absolute position 459 (relative 17)
+Found dont: 1 at absolute position 981 (relative 539)
+Processing mul: 98*91=8918 sum=5738043
+
+Current position: 460
+Active state: true
+Found mul: 1 at absolute position 507 (relative 47)
+Found dont: 1 at absolute position 981 (relative 521)
+Processing mul: 457*779=356003 sum=6094046
+
+Current position: 508
+Active state: true
+Found mul: 1 at absolute position 519 (relative 11)
+Found dont: 1 at absolute position 981 (relative 473)
+Processing mul: 825*607=500775 sum=6594821
+
+Current position: 520
+Active state: true
+Found mul: 1 at absolute position 545 (relative 25)
+Found dont: 1 at absolute position 981 (relative 461)
+Processing mul: 888*364=323232 sum=6918053
+
+Current position: 546
+Active state: true
+Found mul: 1 at absolute position 575 (relative 29)
+Found dont: 1 at absolute position 981 (relative 435)
+Processing mul: 356*842=299752 sum=7217805
+
+Current position: 576
+Active state: true
+Found mul: 1 at absolute position 597 (relative 21)
+Found dont: 1 at absolute position 981 (relative 405)
+Processing mul: 973*195=189735 sum=7407540
+
+Current position: 598
+Active state: true
+Found mul: 1 at absolute position 625 (relative 27)
+Found dont: 1 at absolute position 981 (relative 383)
+Processing mul: 383*305=116815 sum=7524355
+
+Current position: 626
+Active state: true
+Found mul: 1 at absolute position 672 (relative 46)
+Found dont: 1 at absolute position 981 (relative 355)
+Processing mul: 186*635=118110 sum=7642465
+
+Current position: 673
+Active state: true
+Found mul: 1 at absolute position 710 (relative 37)
+Found dont: 1 at absolute position 981 (relative 308)
+Processing mul: 249*256=63744 sum=7706209
+
+Current position: 711
+Active state: true
+Found mul: 1 at absolute position 725 (relative 14)
+Found dont: 1 at absolute position 981 (relative 270)
+Processing mul: 851*885=753135 sum=8459344
+
+Current position: 726
+Active state: true
+Found mul: 1 at absolute position 748 (relative 22)
+Found dont: 1 at absolute position 981 (relative 255)
+Processing mul: 87*662=57594 sum=8516938
+
+Current position: 749
+Active state: true
+Found mul: 1 at absolute position 776 (relative 27)
+Found dont: 1 at absolute position 981 (relative 232)
+Processing mul: 144*693=99792 sum=8616730
+
+Current position: 777
+Active state: true
+Found mul: 1 at absolute position 813 (relative 36)
+Found dont: 1 at absolute position 981 (relative 204)
+Processing mul: 489*471=230319 sum=8847049
+
+Current position: 814
+Active state: true
+Found mul: 1 at absolute position 841 (relative 27)
+Found dont: 1 at absolute position 981 (relative 167)
+Processing mul: 101*882=89082 sum=8936131
+
+Current position: 842
+Active state: true
+Found mul: 1 at absolute position 853 (relative 11)
+Found dont: 1 at absolute position 981 (relative 139)
+Processing mul: 399*691=275709 sum=9211840
+
+Current position: 854
+Active state: true
+Found mul: 1 at absolute position 904 (relative 50)
+Found dont: 1 at absolute position 981 (relative 127)
+Processing mul: 148*850=125800 sum=9337640
+
+Current position: 905
+Active state: true
+Found mul: 1 at absolute position 917 (relative 12)
+Found dont: 1 at absolute position 981 (relative 76)
+Processing mul: 781*765=597465 sum=9935105
+
+Current position: 918
+Active state: true
+Found mul: 1 at absolute position 962 (relative 44)
+Found dont: 1 at absolute position 981 (relative 63)
+Processing mul: 557*94=52358 sum=9987463
+
+Current position: 963
+Active state: true
+Found mul: 1 at absolute position 995 (relative 32)
+Found dont: 1 at absolute position 981 (relative 18)
+Found dont first, disabling
+
+Current position: 982
+Active state: false
+Looking for do(), found: 1 at position 1183
+Re-enabling
+
+Current position: 1184
+Active state: true
+Found mul: 1 at absolute position 1198 (relative 14)
+Found dont: 1 at absolute position 1843 (relative 659)
+Processing mul: 978*411=401958 sum=10389421
+
+Current position: 1199
+Active state: true
+Found mul: 1 at absolute position 1223 (relative 24)
+Found dont: 1 at absolute position 1843 (relative 644)
+Processing mul: 133*168=22344 sum=10411765
+
+Current position: 1224
+Active state: true
+Found mul: 1 at absolute position 1272 (relative 48)
+Found dont: 1 at absolute position 1843 (relative 619)
+Processing mul: 285*937=267045 sum=10678810
+
+Current position: 1273
+Active state: true
+Found mul: 1 at absolute position 1284 (relative 11)
+Found dont: 1 at absolute position 1843 (relative 570)
+Processing mul: 138*969=133722 sum=10812532
+
+Current position: 1285
+Active state: true
+Found mul: 1 at absolute position 1300 (relative 15)
+Found dont: 1 at absolute position 1843 (relative 558)
+Processing mul: 580*479=277820 sum=11090352
+
+Current position: 1301
+Active state: true
+Found mul: 1 at absolute position 1317 (relative 16)
+Found dont: 1 at absolute position 1843 (relative 542)
+Processing mul: 880*273=240240 sum=11330592
+
+Current position: 1318
+Active state: true
+Found mul: 1 at absolute position 1355 (relative 37)
+Found dont: 1 at absolute position 1843 (relative 525)
+Processing mul: 693*345=239085 sum=11569677
+
+Current position: 1356
+Active state: true
+Found mul: 1 at absolute position 1375 (relative 19)
+Found dont: 1 at absolute position 1843 (relative 487)
+Processing mul: 113*820=92660 sum=11662337
+
+Current position: 1376
+Active state: true
+Found mul: 1 at absolute position 1392 (relative 16)
+Found dont: 1 at absolute position 1843 (relative 467)
+Processing mul: 362*763=276206 sum=11938543
+
+Current position: 1393
+Active state: true
+Found mul: 1 at absolute position 1411 (relative 18)
+Found dont: 1 at absolute position 1843 (relative 450)
+Processing mul: 321*344=110424 sum=12048967
+
+Current position: 1412
+Active state: true
+Found mul: 1 at absolute position 1440 (relative 28)
+Found dont: 1 at absolute position 1843 (relative 431)
+Processing mul: 850*506=430100 sum=12479067
+
+Current position: 1441
+Active state: true
+Found mul: 1 at absolute position 1466 (relative 25)
+Found dont: 1 at absolute position 1843 (relative 402)
+Processing mul: 594*30=17820 sum=12496887
+
+Current position: 1467
+Active state: true
+Found mul: 1 at absolute position 1480 (relative 13)
+Found dont: 1 at absolute position 1843 (relative 376)
+Processing mul: 806*297=239382 sum=12736269
+
+Current position: 1481
+Active state: true
+Found mul: 1 at absolute position 1504 (relative 23)
+Found dont: 1 at absolute position 1843 (relative 362)
+Processing mul: 697*524=365228 sum=13101497
+
+Current position: 1505
+Active state: true
+Found mul: 1 at absolute position 1522 (relative 17)
+Found dont: 1 at absolute position 1843 (relative 338)
+Processing mul: 830*463=384290 sum=13485787
+
+Current position: 1523
+Active state: true
+Found mul: 1 at absolute position 1553 (relative 30)
+Found dont: 1 at absolute position 1843 (relative 320)
+Processing mul: 52*131=6812 sum=13492599
+
+Current position: 1554
+Active state: true
+Found mul: 1 at absolute position 1578 (relative 24)
+Found dont: 1 at absolute position 1843 (relative 289)
+Processing mul: 939*710=666690 sum=14159289
+
+Current position: 1579
+Active state: true
+Found mul: 1 at absolute position 1600 (relative 21)
+Found dont: 1 at absolute position 1843 (relative 264)
+Processing mul: 429*147=63063 sum=14222352
+
+Current position: 1601
+Active state: true
+Found mul: 1 at absolute position 1627 (relative 26)
+Found dont: 1 at absolute position 1843 (relative 242)
+Processing mul: 87*386=33582 sum=14255934
+
+Current position: 1628
+Active state: true
+Found mul: 1 at absolute position 1644 (relative 16)
+Found dont: 1 at absolute position 1843 (relative 215)
+Processing mul: 472*843=397896 sum=14653830
+
+Current position: 1645
+Active state: true
+Found mul: 1 at absolute position 1674 (relative 29)
+Found dont: 1 at absolute position 1843 (relative 198)
+Processing mul: 749*472=353528 sum=15007358
+
+Current position: 1675
+Active state: true
+Found mul: 1 at absolute position 1713 (relative 38)
+Found dont: 1 at absolute position 1843 (relative 168)
+Processing mul: 921*645=594045 sum=15601403
+
+Current position: 1714
+Active state: true
+Found mul: 1 at absolute position 1747 (relative 33)
+Found dont: 1 at absolute position 1843 (relative 129)
+Processing mul: 291*7=2037 sum=15603440
+
+Current position: 1748
+Active state: true
+Found mul: 1 at absolute position 1772 (relative 24)
+Found dont: 1 at absolute position 1843 (relative 95)
+Processing mul: 484*416=201344 sum=15804784
+
+Current position: 1773
+Active state: true
+Found mul: 1 at absolute position 1789 (relative 16)
+Found dont: 1 at absolute position 1843 (relative 70)
+Processing mul: 433*280=121240 sum=15926024
+
+Current position: 1790
+Active state: true
+Found mul: 1 at absolute position 1803 (relative 13)
+Found dont: 1 at absolute position 1843 (relative 53)
+Processing mul: 442*92=40664 sum=15966688
+
+Current position: 1804
+Active state: true
+Found mul: 1 at absolute position 1870 (relative 66)
+Found dont: 1 at absolute position 1843 (relative 39)
+Found dont first, disabling
+
+Current position: 1844
+Active state: false
+Looking for do(), found: 1 at position 1883
+Re-enabling
+
+Current position: 1884
+Active state: true
+Found mul: 1 at absolute position 1912 (relative 28)
+Found dont: 0
+Processing mul: 156*867=135252 sum=16101940
+
+Current position: 1913
+Active state: true
+Found mul: 1 at absolute position 1937 (relative 24)
+Found dont: 0
+Processing mul: 645*208=134160 sum=16236100
+
+Current position: 1938
+Active state: true
+Found mul: 1 at absolute position 1986 (relative 48)
+Found dont: 0
+Processing mul: 883*613=541279 sum=16777379
+
+Current position: 1987
+Active state: true
+Found mul: 1 at absolute position 2012 (relative 25)
+Found dont: 0
+Processing mul: 878*282=247596 sum=17024975
+
+Current position: 2013
+Active state: true
+Found mul: 1 at absolute position 2051 (relative 38)
+Found dont: 0
+Processing mul: 329*320=105280 sum=17130255
+
+Current position: 2052
+Active state: true
+Found mul: 1 at absolute position 2081 (relative 29)
+Found dont: 0
+Processing mul: 335*177=59295 sum=17189550
+
+Current position: 2082
+Active state: true
+Found mul: 1 at absolute position 2115 (relative 33)
+Found dont: 0
+Processing mul: 119*515=61285 sum=17250835
+
+Current position: 2116
+Active state: true
+Found mul: 1 at absolute position 2140 (relative 24)
+Found dont: 0
+Processing mul: 620*743=460660 sum=17711495
+
+Current position: 2141
+Active state: true
+Found mul: 1 at absolute position 2209 (relative 68)
+Found dont: 0
+Processing mul: 85*259=22015 sum=17733510
+
+Current position: 2210
+Active state: true
+Found mul: 1 at absolute position 2232 (relative 22)
+Found dont: 0
+Processing mul: 869*677=588313 sum=18321823
+
+Current position: 2233
+Active state: true
+Found mul: 1 at absolute position 2248 (relative 15)
+Found dont: 0
+Processing mul: 6*929=5574 sum=18327397
+
+Current position: 2249
+Active state: true
+Found mul: 1 at absolute position 2261 (relative 12)
+Found dont: 0
+Processing mul: 613*450=275850 sum=18603247
+
+Current position: 2262
+Active state: true
+Found mul: 1 at absolute position 2281 (relative 19)
+Found dont: 0
+Processing mul: 729*549=400221 sum=19003468
+
+Current position: 2282
+Active state: true
+Found mul: 1 at absolute position 2297 (relative 15)
+Found dont: 0
+Processing mul: 6*598=3588 sum=19007056
+
+Current position: 2298
+Active state: true
+Found mul: 1 at absolute position 2316 (relative 18)
+Found dont: 0
+Processing mul: 104*228=23712 sum=19030768
+
+Current position: 2317
+Active state: true
+Found mul: 1 at absolute position 2331 (relative 14)
+Found dont: 0
+Processing mul: 28*630=17640 sum=19048408
+
+Current position: 2332
+Active state: true
+Found mul: 1 at absolute position 2361 (relative 29)
+Found dont: 0
+Processing mul: 827*504=416808 sum=19465216
+
+Current position: 2362
+Active state: true
+Found mul: 1 at absolute position 2374 (relative 12)
+Found dont: 0
+Processing mul: 613*193=118309 sum=19583525
+
+Current position: 2375
+Active state: true
+Found mul: 1 at absolute position 2410 (relative 35)
+Found dont: 0
+Processing mul: 707*956=675892 sum=20259417
+
+Current position: 2411
+Active state: true
+Found mul: 1 at absolute position 2436 (relative 25)
+Found dont: 0
+Processing mul: 391*848=331568 sum=20590985
+
+Current position: 2437
+Active state: true
+Found mul: 1 at absolute position 2473 (relative 36)
+Found dont: 0
+Processing mul: 716*823=589268 sum=21180253
+
+Current position: 2474
+Active state: true
+Found mul: 1 at absolute position 2485 (relative 11)
+Found dont: 0
+Processing mul: 619*201=124419 sum=21304672
+
+Current position: 2486
+Active state: true
+Found mul: 1 at absolute position 2546 (relative 60)
+Found dont: 0
+Processing mul: 484*775=375100 sum=21679772
+
+Current position: 2547
+Active state: true
+Found mul: 1 at absolute position 2574 (relative 27)
+Found dont: 0
+Processing mul: 611*484=295724 sum=21975496
+
+Current position: 2575
+Active state: true
+Found mul: 1 at absolute position 2606 (relative 31)
+Found dont: 0
+Processing mul: 475*311=147725 sum=22123221
+
+Current position: 2607
+Active state: true
+Found mul: 1 at absolute position 2639 (relative 32)
+Found dont: 0
+Processing mul: 783*439=343737 sum=22466958
+
+Current position: 2640
+Active state: true
+Found mul: 1 at absolute position 2651 (relative 11)
+Found dont: 0
+Processing mul: 474*38=18012 sum=22484970
+
+Current position: 2652
+Active state: true
+Found mul: 1 at absolute position 2662 (relative 10)
+Found dont: 0
+Processing mul: 188*9=1692 sum=22486662
+
+Current position: 2663
+Active state: true
+Found mul: 1 at absolute position 2739 (relative 76)
+Found dont: 0
+Processing mul: 363*38=13794 sum=22500456
+
+Current position: 2740
+Active state: true
+Found mul: 1 at absolute position 2765 (relative 25)
+Found dont: 0
+Processing mul: 19*577=10963 sum=22511419
+
+Current position: 2766
+Active state: true
+Found mul: 1 at absolute position 2798 (relative 32)
+Found dont: 0
+Processing mul: 922*251=231422 sum=22742841
+
+Current position: 2799
+Active state: true
+Found mul: 1 at absolute position 2823 (relative 24)
+Found dont: 0
+Processing mul: 555*531=294705 sum=23037546
+
+Current position: 2824
+Active state: true
+Found mul: 1 at absolute position 2847 (relative 23)
+Found dont: 0
+Processing mul: 997*855=852435 sum=23889981
+
+Current position: 2848
+Active state: true
+Found mul: 1 at absolute position 2859 (relative 11)
+Found dont: 0
+Processing mul: 301*699=210399 sum=24100380
+
+Current position: 2860
+Active state: true
+Found mul: 1 at absolute position 2887 (relative 27)
+Found dont: 0
+Processing mul: 544*929=505376 sum=24605756
+
+Current position: 2888
+Active state: true
+Found mul: 1 at absolute position 2948 (relative 60)
+Found dont: 0
+Processing mul: 639*724=462636 sum=25068392
+
+Current position: 2949
+Active state: true
+Found mul: 1 at absolute position 2981 (relative 32)
+Found dont: 0
+Processing mul: 391*707=276437 sum=25344829
+
+Current position: 2982
+Active state: true
+Found mul: 1 at absolute position 3053 (relative 71)
+Found dont: 0
+Processing mul: 787*474=373038 sum=25717867
+
+Current position: 3054
+Active state: true
+Found mul: 1 at absolute position 3074 (relative 20)
+Found dont: 0
+Processing mul: 161*733=118013 sum=25835880
+
+Current position: 3075
+Active state: true
+Found mul: 0
+Found dont: 0
+No patterns found, breaking
+Final sum: 25835880
+Initial string: !~ why()where()mul(730,677)#}]<-:??mul(674,45)?[select()'/;{;>#mul:from(){@''how()}$+[mul(823,4)mul(21,959)*!where(214,815)({>^mul(630,855)<(select()&mul(92,744)where()+from()?#/where(108,36)-mul(636,727)from()@how()@when()/:%how()mul(722,483)*:where()[do()select()*[<;~+$mul(916,381 select()%when()$@mul(782,526)how()select()@&@!/mul(568,269)+~%<(}>how()&mul(568,865)?}(*^-!mul(781,583)* (:^mul(815,903)(:who()what()select():who()^how()(mul(468,302)where()%mul(940,777):<<[#+,mul(185,55)mul(470,850), '-' mul(361,647)mul(629,265)![;mul(259,739)mul(209,270)+where()~#mul(340,946)!how()?]don't()mul(137,227)don't()why() how()}}>~&mul(761,163)]<#@mul-+how()select()mul(228,162),from(164,406)$what()>don't())who()]when()how()-why()!mul(236,693)who()<;how()who(): !:'mul(153,600)]what()#from()mul(687,964)^+{ (mul(277,968)'&don't()>%what()(]&/}mul(951,592)}+<don't()-[when()who()&+when()&mul(945,705)&^{:mul(517,673)from()+[['from()mul(123,745))mul(735,471)#who()!-mul(218,491)how() ]what()<mul(775,865)[%who()$#+mul(836,889)where()&how()why()![mul(557,141)mul(565,994)&from(){}*%(:do()'}>mul(675,946),where()mul(316,184)]<'[<*why()*select(597,725)/mul(58,34)/when();:how());mul(60,439)<?from()>who()from()}mul(300,852)mul(278,762)?</}!%mul(461,331how()!%>:}@<why()<mul(961,437)+~)[mul(340,101)!;'from())why()^,!mul(485,861#[/mul(710,417)%' -$&where())what()*mul(91,947)}(don't()select()-<why()(who()[};mul(294,617)who()$;how(){mul(540,968)mul(653,727)who(608,146)!mul(525,266){where()%select()where())(:*mul(503,274),how(35,5)mul(26;:;{ [mul(940,877)%*[@'@({do()>?&]mul(46,664)mul(291,306))-{(>mul(332,272)~,how()-mul(800,174)@%how()-where(171,403)mul-( mul(758,259)>what()what()+what()who()why()+@mul(945)&when()]mul(197,968)(?]#!where(876,487)-mul(409,744) /what()](what()mul(228,485)(!select(){(mul(898,295)}why()^<how()(who(233,695)%mul(808,397)^who():mul(871,11)>)?mul(189,119)&mul(564,374))-,:[>mul(866,802)@(++why()/!mul(800,861)mul(657,743)who();* ?mul(785,52){/!when()select(550,561)&(/+*mul(407,66)who()^&mul(455,769)<mul(998,994)'mul(306,933)mul(603,638)why()&mul(262,761)where()?^}mul(631,682)how(483,667)why(490,860)}}~ 'when()>mul(608,695)select()how()#[what()select()^(:mul(559,247)*-mul(684,443)< :)*mul(390,946)how()/,mul(207,219)'''when()^mul(452,554)+<%,%mul(744,656)@~>from(),&!mul(851,699)when(),::%what()do()@/mul(304,149)}/why()$#-,*!what()mul(337,566)&who(109,924)where()*mul(223,512)'; }mul(98,573)do()[[{$/*<]mul<how()where()'mul(819,187),&'(}@how()$what()?mul(348,685)where();how(628,764):!!~mul(930,521)(what(829,497)':}:;;)mul(740,633)mul(679,522)*(<<-(mul(144,935)+*+!mul(216,40)]@(do()mul(912,141)why()from(964,599) where()mul(336,700)mul(865,243)%**how()' when()<[when()mul(349,355)]mul(749,166)%>(,*mul(953,484)]who()select() :}how()!%don't()where() !;mul(533,762)-$-+what(124,118)mul(326,999)where()&($what()(mul(796,908) )<~~ mul(127,960))~%/who()]do()&#-&#mul(367,46)>where():;# %[]&mul(547,568)#^[from(883,557)mul}#!/usr/bin/perl)#-mul(547,116)$^when()mul(370,569)
+
+Current position: 0
+Active state: true
+Found mul: 1 at absolute position 15 (relative 15)
+Found dont: 1 at absolute position 587 (relative 587)
+Processing mul: 730*677=494210 sum=494210
+
+Current position: 16
+Active state: true
+Found mul: 1 at absolute position 35 (relative 19)
+Found dont: 1 at absolute position 587 (relative 571)
+Processing mul: 674*45=30330 sum=524540
+
+Current position: 36
+Active state: true
+Found mul: 1 at absolute position 86 (relative 50)
+Found dont: 1 at absolute position 587 (relative 551)
+Processing mul: 823*4=3292 sum=527832
+
+Current position: 87
+Active state: true
+Found mul: 1 at absolute position 96 (relative 9)
+Found dont: 1 at absolute position 587 (relative 500)
+Processing mul: 21*959=20139 sum=547971
+
+Current position: 97
+Active state: true
+Found mul: 1 at absolute position 127 (relative 30)
+Found dont: 1 at absolute position 587 (relative 490)
+Processing mul: 630*855=538650 sum=1086621
+
+Current position: 128
+Active state: true
+Found mul: 1 at absolute position 150 (relative 22)
+Found dont: 1 at absolute position 587 (relative 459)
+Processing mul: 92*744=68448 sum=1155069
+
+Current position: 151
+Active state: true
+Found mul: 1 at absolute position 192 (relative 41)
+Found dont: 1 at absolute position 587 (relative 436)
+Processing mul: 636*727=462372 sum=1617441
+
+Current position: 193
+Active state: true
+Found mul: 1 at absolute position 231 (relative 38)
+Found dont: 1 at absolute position 587 (relative 394)
+Processing mul: 722*483=348726 sum=1966167
+
+Current position: 232
+Active state: true
+Found mul: 1 at absolute position 301 (relative 69)
+Found dont: 1 at absolute position 587 (relative 355)
+Processing mul: 782*526=411332 sum=2377499
+
+Current position: 302
+Active state: true
+Found mul: 1 at absolute position 331 (relative 29)
+Found dont: 1 at absolute position 587 (relative 285)
+Processing mul: 568*269=152792 sum=2530291
+
+Current position: 332
+Active state: true
+Found mul: 1 at absolute position 356 (relative 24)
+Found dont: 1 at absolute position 587 (relative 255)
+Processing mul: 568*865=491320 sum=3021611
+
+Current position: 357
+Active state: true
+Found mul: 1 at absolute position 375 (relative 18)
+Found dont: 1 at absolute position 587 (relative 230)
+Processing mul: 781*583=455323 sum=3476934
+
+Current position: 376
+Active state: true
+Found mul: 1 at absolute position 392 (relative 16)
+Found dont: 1 at absolute position 587 (relative 211)
+Processing mul: 815*903=735945 sum=4212879
+
+Current position: 393
+Active state: true
+Found mul: 1 at absolute position 438 (relative 45)
+Found dont: 1 at absolute position 587 (relative 194)
+Processing mul: 468*302=141336 sum=4354215
+
+Current position: 439
+Active state: true
+Found mul: 1 at absolute position 458 (relative 19)
+Found dont: 1 at absolute position 587 (relative 148)
+Processing mul: 940*777=730380 sum=5084595
+
+Current position: 459
+Active state: true
+Found mul: 1 at absolute position 477 (relative 18)
+Found dont: 1 at absolute position 587 (relative 128)
+Processing mul: 185*55=10175 sum=5094770
+
+Current position: 478
+Active state: true
+Found mul: 1 at absolute position 488 (relative 10)
+Found dont: 1 at absolute position 587 (relative 109)
+Processing mul: 470*850=399500 sum=5494270
+
+Current position: 489
+Active state: true
+Found mul: 1 at absolute position 506 (relative 17)
+Found dont: 1 at absolute position 587 (relative 98)
+Processing mul: 361*647=233567 sum=5727837
+
+Current position: 507
+Active state: true
+Found mul: 1 at absolute position 518 (relative 11)
+Found dont: 1 at absolute position 587 (relative 80)
+Processing mul: 629*265=166685 sum=5894522
+
+Current position: 519
+Active state: true
+Found mul: 1 at absolute position 533 (relative 14)
+Found dont: 1 at absolute position 587 (relative 68)
+Processing mul: 259*739=191401 sum=6085923
+
+Current position: 534
+Active state: true
+Found mul: 1 at absolute position 545 (relative 11)
+Found dont: 1 at absolute position 587 (relative 53)
+Processing mul: 209*270=56430 sum=6142353
+
+Current position: 546
+Active state: true
+Found mul: 1 at absolute position 567 (relative 21)
+Found dont: 1 at absolute position 587 (relative 41)
+Processing mul: 340*946=321640 sum=6463993
+
+Current position: 568
+Active state: true
+Found mul: 1 at absolute position 594 (relative 26)
+Found dont: 1 at absolute position 587 (relative 19)
+Found dont first, disabling
+
+Current position: 588
+Active state: false
+Looking for do(), found: 1 at position 1078
+Re-enabling
+
+Current position: 1079
+Active state: true
+Found mul: 1 at absolute position 1085 (relative 6)
+Found dont: 1 at absolute position 1368 (relative 289)
+Processing mul: 675*946=638550 sum=7102543
+
+Current position: 1086
+Active state: true
+Found mul: 1 at absolute position 1105 (relative 19)
+Found dont: 1 at absolute position 1368 (relative 282)
+Processing mul: 316*184=58144 sum=7160687
+
+Current position: 1106
+Active state: true
+Found mul: 1 at absolute position 1145 (relative 39)
+Found dont: 1 at absolute position 1368 (relative 262)
+Processing mul: 58*34=1972 sum=7162659
+
+Current position: 1146
+Active state: true
+Found mul: 1 at absolute position 1171 (relative 25)
+Found dont: 1 at absolute position 1368 (relative 222)
+Processing mul: 60*439=26340 sum=7188999
+
+Current position: 1172
+Active state: true
+Found mul: 1 at absolute position 1203 (relative 31)
+Found dont: 1 at absolute position 1368 (relative 196)
+Processing mul: 300*852=255600 sum=7444599
+
+Current position: 1204
+Active state: true
+Found mul: 1 at absolute position 1215 (relative 11)
+Found dont: 1 at absolute position 1368 (relative 164)
+Processing mul: 278*762=211836 sum=7656435
+
+Current position: 1216
+Active state: true
+Found mul: 1 at absolute position 1262 (relative 46)
+Found dont: 1 at absolute position 1368 (relative 152)
+Processing mul: 961*437=419957 sum=8076392
+
+Current position: 1263
+Active state: true
+Found mul: 1 at absolute position 1278 (relative 15)
+Found dont: 1 at absolute position 1368 (relative 105)
+Processing mul: 340*101=34340 sum=8110732
+
+Current position: 1279
+Active state: true
+Found mul: 1 at absolute position 1322 (relative 43)
+Found dont: 1 at absolute position 1368 (relative 89)
+Processing mul: 710*417=296070 sum=8406802
+
+Current position: 1323
+Active state: true
+Found mul: 1 at absolute position 1355 (relative 32)
+Found dont: 1 at absolute position 1368 (relative 45)
+Processing mul: 91*947=86177 sum=8492979
+
+Current position: 1356
+Active state: true
+Found mul: 1 at absolute position 1399 (relative 43)
+Found dont: 1 at absolute position 1368 (relative 12)
+Found dont first, disabling
+
+Current position: 1369
+Active state: false
+Looking for do(), found: 1 at position 1555
+Re-enabling
+
+Current position: 1556
+Active state: true
+Found mul: 1 at absolute position 1563 (relative 7)
+Found dont: 1 at absolute position 2765 (relative 1209)
+Processing mul: 46*664=30544 sum=8523523
+
+Current position: 1564
+Active state: true
+Found mul: 1 at absolute position 1574 (relative 10)
+Found dont: 1 at absolute position 2765 (relative 1201)
+Processing mul: 291*306=89046 sum=8612569
+
+Current position: 1575
+Active state: true
+Found mul: 1 at absolute position 1591 (relative 16)
+Found dont: 1 at absolute position 2765 (relative 1190)
+Processing mul: 332*272=90304 sum=8702873
+
+Current position: 1592
+Active state: true
+Found mul: 1 at absolute position 1611 (relative 19)
+Found dont: 1 at absolute position 2765 (relative 1173)
+Processing mul: 800*174=139200 sum=8842073
+
+Current position: 1612
+Active state: true
+Found mul: 1 at absolute position 1651 (relative 39)
+Found dont: 1 at absolute position 2765 (relative 1153)
+Processing mul: 758*259=196322 sum=9038395
+
+Current position: 1652
+Active state: true
+Found mul: 1 at absolute position 1711 (relative 59)
+Found dont: 1 at absolute position 2765 (relative 1113)
+Processing mul: 197*968=190696 sum=9229091
+
+Current position: 1712
+Active state: true
+Found mul: 1 at absolute position 1743 (relative 31)
+Found dont: 1 at absolute position 2765 (relative 1053)
+Processing mul: 409*744=304296 sum=9533387
+
+Current position: 1744
+Active state: true
+Found mul: 1 at absolute position 1771 (relative 27)
+Found dont: 1 at absolute position 2765 (relative 1021)
+Processing mul: 228*485=110580 sum=9643967
+
+Current position: 1772
+Active state: true
+Found mul: 1 at absolute position 1795 (relative 23)
+Found dont: 1 at absolute position 2765 (relative 993)
+Processing mul: 898*295=264910 sum=9908877
+
+Current position: 1796
+Active state: true
+Found mul: 1 at absolute position 1834 (relative 38)
+Found dont: 1 at absolute position 2765 (relative 969)
+Processing mul: 808*397=320776 sum=10229653
+
+Current position: 1835
+Active state: true
+Found mul: 1 at absolute position 1853 (relative 18)
+Found dont: 1 at absolute position 2765 (relative 930)
+Processing mul: 871*11=9581 sum=10239234
+
+Current position: 1854
+Active state: true
+Found mul: 1 at absolute position 1867 (relative 13)
+Found dont: 1 at absolute position 2765 (relative 911)
+Processing mul: 189*119=22491 sum=10261725
+
+Current position: 1868
+Active state: true
+Found mul: 1 at absolute position 1880 (relative 12)
+Found dont: 1 at absolute position 2765 (relative 897)
+Processing mul: 564*374=210936 sum=10472661
+
+Current position: 1881
+Active state: true
+Found mul: 1 at absolute position 1898 (relative 17)
+Found dont: 1 at absolute position 2765 (relative 884)
+Processing mul: 866*802=694532 sum=11167193
+
+Current position: 1899
+Active state: true
+Found mul: 1 at absolute position 1921 (relative 22)
+Found dont: 1 at absolute position 2765 (relative 866)
+Processing mul: 800*861=688800 sum=11855993
+
+Current position: 1922
+Active state: true
+Found mul: 1 at absolute position 1933 (relative 11)
+Found dont: 1 at absolute position 2765 (relative 843)
+Processing mul: 657*743=488151 sum=12344144
+
+Current position: 1934
+Active state: true
+Found mul: 1 at absolute position 1954 (relative 20)
+Found dont: 1 at absolute position 2765 (relative 831)
+Processing mul: 785*52=40820 sum=12384964
+
+Current position: 1955
+Active state: true
+Found mul: 1 at absolute position 1994 (relative 39)
+Found dont: 1 at absolute position 2765 (relative 810)
+Processing mul: 407*66=26862 sum=12411826
+
+Current position: 1995
+Active state: true
+Found mul: 1 at absolute position 2012 (relative 17)
+Found dont: 1 at absolute position 2765 (relative 770)
+Processing mul: 455*769=349895 sum=12761721
+
+Current position: 2013
+Active state: true
+Found mul: 1 at absolute position 2025 (relative 12)
+Found dont: 1 at absolute position 2765 (relative 752)
+Processing mul: 998*994=992012 sum=13753733
+
+Current position: 2026
+Active state: true
+Found mul: 1 at absolute position 2038 (relative 12)
+Found dont: 1 at absolute position 2765 (relative 739)
+Processing mul: 306*933=285498 sum=14039231
+
+Current position: 2039
+Active state: true
+Found mul: 1 at absolute position 2050 (relative 11)
+Found dont: 1 at absolute position 2765 (relative 726)
+Processing mul: 603*638=384714 sum=14423945
+
+Current position: 2051
+Active state: true
+Found mul: 1 at absolute position 2068 (relative 17)
+Found dont: 1 at absolute position 2765 (relative 714)
+Processing mul: 262*761=199382 sum=14623327
+
+Current position: 2069
+Active state: true
+Found mul: 1 at absolute position 2090 (relative 21)
+Found dont: 1 at absolute position 2765 (relative 696)
+Processing mul: 631*682=430342 sum=15053669
+
+Current position: 2091
+Active state: true
+Found mul: 1 at absolute position 2138 (relative 47)
+Found dont: 1 at absolute position 2765 (relative 674)
+Processing mul: 608*695=422560 sum=15476229
+
+Current position: 2139
+Active state: true
+Found mul: 1 at absolute position 2182 (relative 43)
+Found dont: 1 at absolute position 2765 (relative 626)
+Processing mul: 559*247=138073 sum=15614302
+
+Current position: 2183
+Active state: true
+Found mul: 1 at absolute position 2196 (relative 13)
+Found dont: 1 at absolute position 2765 (relative 582)
+Processing mul: 684*443=303012 sum=15917314
+
+Current position: 2197
+Active state: true
+Found mul: 1 at absolute position 2213 (relative 16)
+Found dont: 1 at absolute position 2765 (relative 568)
+Processing mul: 390*946=368940 sum=16286254
+
+Current position: 2214
+Active state: true
+Found mul: 1 at absolute position 2232 (relative 18)
+Found dont: 1 at absolute position 2765 (relative 551)
+Processing mul: 207*219=45333 sum=16331587
+
+Current position: 2233
+Active state: true
+Found mul: 1 at absolute position 2254 (relative 21)
+Found dont: 1 at absolute position 2765 (relative 532)
+Processing mul: 452*554=250408 sum=16581995
+
+Current position: 2255
+Active state: true
+Found mul: 1 at absolute position 2271 (relative 16)
+Found dont: 1 at absolute position 2765 (relative 510)
+Processing mul: 744*656=488064 sum=17070059
+
+Current position: 2272
+Active state: true
+Found mul: 1 at absolute position 2295 (relative 23)
+Found dont: 1 at absolute position 2765 (relative 493)
+Processing mul: 851*699=594849 sum=17664908
+
+Current position: 2296
+Active state: true
+Found mul: 1 at absolute position 2329 (relative 33)
+Found dont: 1 at absolute position 2765 (relative 469)
+Processing mul: 304*149=45296 sum=17710204
+
+Current position: 2330
+Active state: true
+Found mul: 1 at absolute position 2360 (relative 30)
+Found dont: 1 at absolute position 2765 (relative 435)
+Processing mul: 337*566=190742 sum=17900946
+
+Current position: 2361
+Active state: true
+Found mul: 1 at absolute position 2393 (relative 32)
+Found dont: 1 at absolute position 2765 (relative 404)
+Processing mul: 223*512=114176 sum=18015122
+
+Current position: 2394
+Active state: true
+Found mul: 1 at absolute position 2409 (relative 15)
+Found dont: 1 at absolute position 2765 (relative 371)
+Processing mul: 98*573=56154 sum=18071276
+
+Current position: 2410
+Active state: true
+Found mul: 1 at absolute position 2449 (relative 39)
+Found dont: 1 at absolute position 2765 (relative 355)
+Processing mul: 819*187=153153 sum=18224429
+
+Current position: 2450
+Active state: true
+Found mul: 1 at absolute position 2480 (relative 30)
+Found dont: 1 at absolute position 2765 (relative 315)
+Processing mul: 348*685=238380 sum=18462809
+
+Current position: 2481
+Active state: true
+Found mul: 1 at absolute position 2516 (relative 35)
+Found dont: 1 at absolute position 2765 (relative 284)
+Processing mul: 930*521=484530 sum=18947339
+
+Current position: 2517
+Active state: true
+Found mul: 1 at absolute position 2549 (relative 32)
+Found dont: 1 at absolute position 2765 (relative 248)
+Processing mul: 740*633=468420 sum=19415759
+
+Current position: 2550
+Active state: true
+Found mul: 1 at absolute position 2561 (relative 11)
+Found dont: 1 at absolute position 2765 (relative 215)
+Processing mul: 679*522=354438 sum=19770197
+
+Current position: 2562
+Active state: true
+Found mul: 1 at absolute position 2579 (relative 17)
+Found dont: 1 at absolute position 2765 (relative 203)
+Processing mul: 144*935=134640 sum=19904837
+
+Current position: 2580
+Active state: true
+Found mul: 1 at absolute position 2595 (relative 15)
+Found dont: 1 at absolute position 2765 (relative 185)
+Processing mul: 216*40=8640 sum=19913477
+
+Current position: 2596
+Active state: true
+Found mul: 1 at absolute position 2613 (relative 17)
+Found dont: 1 at absolute position 2765 (relative 169)
+Processing mul: 912*141=128592 sum=20042069
+
+Current position: 2614
+Active state: true
+Found mul: 1 at absolute position 2651 (relative 37)
+Found dont: 1 at absolute position 2765 (relative 151)
+Processing mul: 336*700=235200 sum=20277269
+
+Current position: 2652
+Active state: true
+Found mul: 1 at absolute position 2663 (relative 11)
+Found dont: 1 at absolute position 2765 (relative 113)
+Processing mul: 865*243=210195 sum=20487464
+
+Current position: 2664
+Active state: true
+Found mul: 1 at absolute position 2699 (relative 35)
+Found dont: 1 at absolute position 2765 (relative 101)
+Processing mul: 349*355=123895 sum=20611359
+
+Current position: 2700
+Active state: true
+Found mul: 1 at absolute position 2712 (relative 12)
+Found dont: 1 at absolute position 2765 (relative 65)
+Processing mul: 749*166=124334 sum=20735693
+
+Current position: 2713
+Active state: true
+Found mul: 1 at absolute position 2729 (relative 16)
+Found dont: 1 at absolute position 2765 (relative 52)
+Processing mul: 953*484=461252 sum=21196945
+
+Current position: 2730
+Active state: true
+Found mul: 1 at absolute position 2782 (relative 52)
+Found dont: 1 at absolute position 2765 (relative 35)
+Found dont first, disabling
+
+Current position: 2766
+Active state: false
+Looking for do(), found: 1 at position 2880
+Re-enabling
+
+Current position: 2881
+Active state: true
+Found mul: 1 at absolute position 2889 (relative 8)
+Found dont: 0
+Processing mul: 367*46=16882 sum=21213827
+
+Current position: 2890
+Active state: true
+Found mul: 1 at absolute position 2916 (relative 26)
+Found dont: 0
+Processing mul: 547*568=310696 sum=21524523
+
+Current position: 2917
+Active state: true
+Found mul: 1 at absolute position 2966 (relative 49)
+Found dont: 0
+Processing mul: 547*116=63452 sum=21587975
+
+Current position: 2967
+Active state: true
+Found mul: 1 at absolute position 2986 (relative 19)
+Found dont: 0
+Processing mul: 370*569=210530 sum=21798505
+
+Current position: 2987
+Active state: true
+Found mul: 0
+Found dont: 0
+No patterns found, breaking
+Final sum: 21798505
+Initial string: <->from()*>}?^don't()<>:,where()why()mul(449,470)?when()%+^-{/mul(184,484)from(214,259)'mul(959,719)select()how(606,892)-;mul(106,758)where()select(562,544)$#/%mul(675from()~%}mul(732,953):}<mul(869,791): *~mul(344,486)&%*mul(446+mul(409,699)how(652,866);((~who()(mul(507,268)[>,?-^mul(504,99))[:~!]what()mul(204,85)@^do()>$>{select()%how()select();%mul(551,71)%(,when():)from()when()select()mul(278,290)/ {who();where()$%-mul(843,684)how()'{from()select()mul(607,965) [[/]mul(876,854)#where()where()![}%mul(62,79)from()where()(]+select()]]mul(668,758)>select()what()[who()where()[&!mul(551,543)<from()what()%[[do()?how()});:''}mul(598,746)mul(462@(mul(565,27)who()when()mul(650,760)<{$<:@&select()mul(337,243)~&,(+mul(483,254)what()from()'mul+]::?what()@?$>#mul(924,697)*+<do()!!$,mul(70,420)what()mul(170,21),who()]mul(916,819where()'($#]%from(27,77)/[>mul(807,301)*where(381,893)}where()(+mul(846,431)from()why() %what()why(802,698)?mul(122,673)!:}mul(672,150)~?mul(567,146)?who()&@/*&mul(922,901)]when()>$~{>mul(271,971):)select()who(91,572)~$why(),mul(695,885)where()'#from()from()mul(252,860)>^:who()({])(mul(233,472)who()where(906,494)where()--mul(347,46)}mul&don't()%who()((}who()((]mul(52,854)where()why(363,933) ?+mul(203,35)<[$*from()},who()'mul(849,519)mul(841,351)]]mul(444,689):from()*!&)*'! mul(943,690)how()^}]why()((mul(935,524)mul(935,806)who()~mul(703,737))]?:/+%when()(do()mul(968,713)[who(561,712)(/mul(97,572)who();~+why()-mul(942,777)))&^[,where()mul%*)?from()mul(462,688)>how()[++(who()~%@mul(940,121)~- {who()-{why()mul(49,417)mul(353,70)what())?<-from()how()/where():don't()select()$(>/[what())::mul(515,851)what())~[don't()?+; mul(302,236~mul(38,849)[[{when(635,431)who()^who()?when()<mul(539,198)(,%#*:&why()*mul(646,12)^&%where()select()#-mul(234,72)>&%]:do()select()',<where()select(180,720)mul(117,684)?who()%mul(840,264)who():{+($mul(649,6)who()+mul(232,471^*mul(788,243)where();{'/select()(mul(900what(528,554)[(+&):mul(390,369)>where()<;-@mul(349,121),*[,<!/^;mul(877,679)?[,when()<^mul(81,108)-*@how()[mul(126,985)from()why();}$:,*mul(361,691)^when()[>! *~what()mul(604,91)how(301,723)what()how(67,829)mul(247,535)~~$<~where() #(mul(949,539)+{'&&({why(),mul(578,991)^!who();@select()how()who()@[mul(746,832)%mul(654,124)mul(637,556)-who(983,938)where()#[don't()mul(707,216)[~$(*select()]-<'mul(580,979))+?mul(439,653)&when()why())who()-#~-mul(748,900)%{^)mul(439,528){){$what()}]why()]mul(842,468where()+when()$mul(740,495)what(216,648)/who()@+what()%mul(206,411)mul(791,423)' what()what();!&})mul(758,695) {where()}mul(896,607)what()^;from()+mul(457,902)$from()#mul(683,733){>mul(209,811)what()#from()@mul(53,51![-*mul(107,114)}&%^mul(578,688)*)<mul(901,341) ,;/mul(16,607)$?[>/]mul(14,783)*#when()@>-mul(494,115)when()mul(655,203), #!-& don't(),}mul(154,778)/)>}*select()@why()-mul(442,92)(mul(596,263)how()#>from()-mul(159,308),mul(369,319)why()do():#^when()~$mul(627,260)##;from()@mul(146,672)~where()~mul(661,627)]&#/+mul(634,624))]}how()what()from()@]*&mul(836,150)%;?-#]&&&)mul(243,782){{~:> <where()mul(420,881) [how()don't()<& %?mul(67,722)#/what():mul(160,274)**from()[,- @)mul(603,336)?from()]'%mul(292,56)
+
+Current position: 0
+Active state: true
+Found mul: 1 at absolute position 37 (relative 37)
+Found dont: 1 at absolute position 14 (relative 14)
+Found dont first, disabling
+
+Current position: 15
+Active state: false
+Looking for do(), found: 1 at position 318
+Re-enabling
+
+Current position: 319
+Active state: true
+Found mul: 1 at absolute position 350 (relative 31)
+Found dont: 1 at absolute position 1167 (relative 848)
+Processing mul: 551*71=39121 sum=39121
+
+Current position: 351
+Active state: true
+Found mul: 1 at absolute position 392 (relative 41)
+Found dont: 1 at absolute position 1167 (relative 816)
+Processing mul: 278*290=80620 sum=119741
+
+Current position: 393
+Active state: true
+Found mul: 1 at absolute position 423 (relative 30)
+Found dont: 1 at absolute position 1167 (relative 774)
+Processing mul: 843*684=576612 sum=696353
+
+Current position: 424
+Active state: true
+Found mul: 1 at absolute position 456 (relative 32)
+Found dont: 1 at absolute position 1167 (relative 743)
+Processing mul: 607*965=585755 sum=1282108
+
+Current position: 457
+Active state: true
+Found mul: 1 at absolute position 473 (relative 16)
+Found dont: 1 at absolute position 1167 (relative 710)
+Processing mul: 876*854=748104 sum=2030212
+
+Current position: 474
+Active state: true
+Found mul: 1 at absolute position 504 (relative 30)
+Found dont: 1 at absolute position 1167 (relative 693)
+Processing mul: 62*79=4898 sum=2035110
+
+Current position: 505
+Active state: true
+Found mul: 1 at absolute position 540 (relative 35)
+Found dont: 1 at absolute position 1167 (relative 662)
+Processing mul: 668*758=506344 sum=2541454
+
+Current position: 541
+Active state: true
+Found mul: 1 at absolute position 583 (relative 42)
+Found dont: 1 at absolute position 1167 (relative 626)
+Processing mul: 551*543=299193 sum=2840647
+
+Current position: 584
+Active state: true
+Found mul: 1 at absolute position 628 (relative 44)
+Found dont: 1 at absolute position 1167 (relative 583)
+Processing mul: 598*746=446108 sum=3286755
+
+Current position: 629
+Active state: true
+Found mul: 1 at absolute position 649 (relative 20)
+Found dont: 1 at absolute position 1167 (relative 538)
+Processing mul: 565*27=15255 sum=3302010
+
+Current position: 650
+Active state: true
+Found mul: 1 at absolute position 671 (relative 21)
+Found dont: 1 at absolute position 1167 (relative 517)
+Processing mul: 650*760=494000 sum=3796010
+
+Current position: 672
+Active state: true
+Found mul: 1 at absolute position 698 (relative 26)
+Found dont: 1 at absolute position 1167 (relative 495)
+Processing mul: 337*243=81891 sum=3877901
+
+Current position: 699
+Active state: true
+Found mul: 1 at absolute position 715 (relative 16)
+Found dont: 1 at absolute position 1167 (relative 468)
+Processing mul: 483*254=122682 sum=4000583
+
+Current position: 716
+Active state: true
+Found mul: 1 at absolute position 759 (relative 43)
+Found dont: 1 at absolute position 1167 (relative 451)
+Processing mul: 924*697=644028 sum=4644611
+
+Current position: 760
+Active state: true
+Found mul: 1 at absolute position 782 (relative 22)
+Found dont: 1 at absolute position 1167 (relative 407)
+Processing mul: 70*420=29400 sum=4674011
+
+Current position: 783
+Active state: true
+Found mul: 1 at absolute position 799 (relative 16)
+Found dont: 1 at absolute position 1167 (relative 384)
+Processing mul: 170*21=3570 sum=4677581
+
+Current position: 800
+Active state: true
+Found mul: 1 at absolute position 855 (relative 55)
+Found dont: 1 at absolute position 1167 (relative 367)
+Processing mul: 807*301=242907 sum=4920488
+
+Current position: 856
+Active state: true
+Found mul: 1 at absolute position 892 (relative 36)
+Found dont: 1 at absolute position 1167 (relative 311)
+Processing mul: 846*431=364626 sum=5285114
+
+Current position: 893
+Active state: true
+Found mul: 1 at absolute position 936 (relative 43)
+Found dont: 1 at absolute position 1167 (relative 274)
+Processing mul: 122*673=82106 sum=5367220
+
+Current position: 937
+Active state: true
+Found mul: 1 at absolute position 951 (relative 14)
+Found dont: 1 at absolute position 1167 (relative 230)
+Processing mul: 672*150=100800 sum=5468020
+
+Current position: 952
+Active state: true
+Found mul: 1 at absolute position 965 (relative 13)
+Found dont: 1 at absolute position 1167 (relative 215)
+Processing mul: 567*146=82782 sum=5550802
+
+Current position: 966
+Active state: true
+Found mul: 1 at absolute position 988 (relative 22)
+Found dont: 1 at absolute position 1167 (relative 201)
+Processing mul: 922*901=830722 sum=6381524
+
+Current position: 989
+Active state: true
+Found mul: 1 at absolute position 1012 (relative 23)
+Found dont: 1 at absolute position 1167 (relative 178)
+Processing mul: 271*971=263141 sum=6644665
+
+Current position: 1013
+Active state: true
+Found mul: 1 at absolute position 1053 (relative 40)
+Found dont: 1 at absolute position 1167 (relative 154)
+Processing mul: 695*885=615075 sum=7259740
+
+Current position: 1054
+Active state: true
+Found mul: 1 at absolute position 1086 (relative 32)
+Found dont: 1 at absolute position 1167 (relative 113)
+Processing mul: 252*860=216720 sum=7476460
+
+Current position: 1087
+Active state: true
+Found mul: 1 at absolute position 1111 (relative 24)
+Found dont: 1 at absolute position 1167 (relative 80)
+Processing mul: 233*472=109976 sum=7586436
+
+Current position: 1112
+Active state: true
+Found mul: 1 at absolute position 1151 (relative 39)
+Found dont: 1 at absolute position 1167 (relative 55)
+Processing mul: 347*46=15962 sum=7602398
+
+Current position: 1152
+Active state: true
+Found mul: 1 at absolute position 1191 (relative 39)
+Found dont: 1 at absolute position 1167 (relative 15)
+Found dont first, disabling
+
+Current position: 1168
+Active state: false
+Looking for do(), found: 1 at position 1389
+Re-enabling
+
+Current position: 1390
+Active state: true
+Found mul: 1 at absolute position 1393 (relative 3)
+Found dont: 1 at absolute position 1593 (relative 203)
+Processing mul: 968*713=690184 sum=8292582
+
+Current position: 1394
+Active state: true
+Found mul: 1 at absolute position 1420 (relative 26)
+Found dont: 1 at absolute position 1593 (relative 199)
+Processing mul: 97*572=55484 sum=8348066
+
+Current position: 1421
+Active state: true
+Found mul: 1 at absolute position 1445 (relative 24)
+Found dont: 1 at absolute position 1593 (relative 172)
+Processing mul: 942*777=731934 sum=9080000
+
+Current position: 1446
+Active state: true
+Found mul: 1 at absolute position 1483 (relative 37)
+Found dont: 1 at absolute position 1593 (relative 147)
+Processing mul: 462*688=317856 sum=9397856
+
+Current position: 1484
+Active state: true
+Found mul: 1 at absolute position 1513 (relative 29)
+Found dont: 1 at absolute position 1593 (relative 109)
+Processing mul: 940*121=113740 sum=9511596
+
+Current position: 1514
+Active state: true
+Found mul: 1 at absolute position 1541 (relative 27)
+Found dont: 1 at absolute position 1593 (relative 79)
+Processing mul: 49*417=20433 sum=9532029
+
+Current position: 1542
+Active state: true
+Found mul: 1 at absolute position 1552 (relative 10)
+Found dont: 1 at absolute position 1593 (relative 51)
+Processing mul: 353*70=24710 sum=9556739
+
+Current position: 1553
+Active state: true
+Found mul: 1 at absolute position 1622 (relative 69)
+Found dont: 1 at absolute position 1593 (relative 40)
+Found dont first, disabling
+
+Current position: 1594
+Active state: false
+Looking for do(), found: 1 at position 1784
+Re-enabling
+
+Current position: 1785
+Active state: true
+Found mul: 1 at absolute position 1821 (relative 36)
+Found dont: 1 at absolute position 2289 (relative 504)
+Processing mul: 117*684=80028 sum=9636767
+
+Current position: 1822
+Active state: true
+Found mul: 1 at absolute position 1840 (relative 18)
+Found dont: 1 at absolute position 2289 (relative 467)
+Processing mul: 840*264=221760 sum=9858527
+
+Current position: 1841
+Active state: true
+Found mul: 1 at absolute position 1862 (relative 21)
+Found dont: 1 at absolute position 2289 (relative 448)
+Processing mul: 649*6=3894 sum=9862421
+
+Current position: 1863
+Active state: true
+Found mul: 1 at absolute position 1891 (relative 28)
+Found dont: 1 at absolute position 2289 (relative 426)
+Processing mul: 788*243=191484 sum=10053905
+
+Current position: 1892
+Active state: true
+Found mul: 1 at absolute position 1949 (relative 57)
+Found dont: 1 at absolute position 2289 (relative 397)
+Processing mul: 390*369=143910 sum=10197815
+
+Current position: 1950
+Active state: true
+Found mul: 1 at absolute position 1973 (relative 23)
+Found dont: 1 at absolute position 2289 (relative 339)
+Processing mul: 349*121=42229 sum=10240044
+
+Current position: 1974
+Active state: true
+Found mul: 1 at absolute position 1994 (relative 20)
+Found dont: 1 at absolute position 2289 (relative 315)
+Processing mul: 877*679=595483 sum=10835527
+
+Current position: 1995
+Active state: true
+Found mul: 1 at absolute position 2017 (relative 22)
+Found dont: 1 at absolute position 2289 (relative 294)
+Processing mul: 81*108=8748 sum=10844275
+
+Current position: 2018
+Active state: true
+Found mul: 1 at absolute position 2037 (relative 19)
+Found dont: 1 at absolute position 2289 (relative 271)
+Processing mul: 126*985=124110 sum=10968385
+
+Current position: 2038
+Active state: true
+Found mul: 1 at absolute position 2066 (relative 28)
+Found dont: 1 at absolute position 2289 (relative 251)
+Processing mul: 361*691=249451 sum=11217836
+
+Current position: 2067
+Active state: true
+Found mul: 1 at absolute position 2097 (relative 30)
+Found dont: 1 at absolute position 2289 (relative 222)
+Processing mul: 604*91=54964 sum=11272800
+
+Current position: 2098
+Active state: true
+Found mul: 1 at absolute position 2137 (relative 39)
+Found dont: 1 at absolute position 2289 (relative 191)
+Processing mul: 247*535=132145 sum=11404945
+
+Current position: 2138
+Active state: true
+Found mul: 1 at absolute position 2164 (relative 26)
+Found dont: 1 at absolute position 2289 (relative 151)
+Processing mul: 949*539=511511 sum=11916456
+
+Current position: 2165
+Active state: true
+Found mul: 1 at absolute position 2189 (relative 24)
+Found dont: 1 at absolute position 2289 (relative 124)
+Processing mul: 578*991=572798 sum=12489254
+
+Current position: 2190
+Active state: true
+Found mul: 1 at absolute position 2230 (relative 40)
+Found dont: 1 at absolute position 2289 (relative 99)
+Processing mul: 746*832=620672 sum=13109926
+
+Current position: 2231
+Active state: true
+Found mul: 1 at absolute position 2243 (relative 12)
+Found dont: 1 at absolute position 2289 (relative 58)
+Processing mul: 654*124=81096 sum=13191022
+
+Current position: 2244
+Active state: true
+Found mul: 1 at absolute position 2255 (relative 11)
+Found dont: 1 at absolute position 2289 (relative 45)
+Processing mul: 637*556=354172 sum=13545194
+
+Current position: 2256
+Active state: true
+Found mul: 1 at absolute position 2296 (relative 40)
+Found dont: 1 at absolute position 2289 (relative 33)
+Found dont first, disabling
+
+Current position: 2290
+Active state: false
+Looking for do(), found: 1 at position 2883
+Re-enabling
+
+Current position: 2884
+Active state: true
+Found mul: 1 at absolute position 2898 (relative 14)
+Found dont: 1 at absolute position 3061 (relative 177)
+Processing mul: 627*260=163020 sum=13708214
+
+Current position: 2899
+Active state: true
+Found mul: 1 at absolute position 2920 (relative 21)
+Found dont: 1 at absolute position 3061 (relative 162)
+Processing mul: 146*672=98112 sum=13806326
+
+Current position: 2921
+Active state: true
+Found mul: 1 at absolute position 2941 (relative 20)
+Found dont: 1 at absolute position 3061 (relative 140)
+Processing mul: 661*627=414447 sum=14220773
+
+Current position: 2942
+Active state: true
+Found mul: 1 at absolute position 2958 (relative 16)
+Found dont: 1 at absolute position 3061 (relative 119)
+Processing mul: 634*624=395616 sum=14616389
+
+Current position: 2959
+Active state: true
+Found mul: 1 at absolute position 2994 (relative 35)
+Found dont: 1 at absolute position 3061 (relative 102)
+Processing mul: 836*150=125400 sum=14741789
+
+Current position: 2995
+Active state: true
+Found mul: 1 at absolute position 3016 (relative 21)
+Found dont: 1 at absolute position 3061 (relative 66)
+Processing mul: 243*782=190026 sum=14931815
+
+Current position: 3017
+Active state: true
+Found mul: 1 at absolute position 3042 (relative 25)
+Found dont: 1 at absolute position 3061 (relative 44)
+Processing mul: 420*881=370020 sum=15301835
+
+Current position: 3043
+Active state: true
+Found mul: 1 at absolute position 3073 (relative 30)
+Found dont: 1 at absolute position 3061 (relative 18)
+Found dont first, disabling
+
+Current position: 3062
+Active state: false
+Looking for do(), found: 0
+No do() found, breaking
+Final sum: 15301835
+Initial string: $what(){;where(474,989)<{!mul(178,109)mul(799,888) >[%@when()mul(636,74);'who()mul(484,564)from()where()^+@<(&mul(559,305)*?[<),/&-mul(994,131)}%)mul(242,758)~ ;!select()?what()what()how()mul(165,179)/^>*how()/!?mul(178,438)' 'why()mul(726,788)mul(466,85)}mul(32,334)!+:@[&~]mul(796,940)mul(391,854)why()@~who(406,979))(^mul(652,996),mul$who(){mul(390,599)select()/}'-?,})from()mul(496,458){&select()where() ,$,mul(304,108)who()^what(52,141)<>why()/mul(916,266)+who()^'@:;mul(785,513);)<<!)*mul(854,23)mul(137,548)@-!^~mul(764,451)mul(391,768){<]from(388,963)$!/#*mul(617,146)}#what()@/}}when()do()*mul(609,18)@;who()^>!,mul(17,331)what()<]<<^}from()<$mulwhere()#@mul(276,743)how()&mul(89,923)>~where(769,105)!why();who()mul(188,537)when()(who()where():%?)mul(326,794)when()<,select()<~*{/^mul(106,934)%,&<mul(444<{^mul(690,660)#![who()+<why()}+mul(472,89)^+from() +{mul(902,82){mul(148,406)/[when()from()don't()&?@#why()?mul(609,571)^{;select()from()how()*#'*mul(215,633)who()who()#'select()+^why()what()mul(336,910)mul(472,299)from()mul(16,149)/[*mul(902,563)what()%)^^select()mul(514,108)!mul(955,588){how()@!)from()]}what()when()mul(104,512)!select()mul(188,411)who()/${when(15,634)do()<&mul(889,797)~-when()},mul(93,599),select(890,669)why()mul(344,755)*%from())mul(585,747)%mul(398,764)#from()from())/(%^?}mul(581,877)where()*/%mul(170,622 *%<select()mul(538,578)~:+!?([mul(20,539) (select()++don't()'-why()'mul(295,426)where(),$/':[mul(758,121),~mul(238,732)!why(427,957)']~select()(mul(308,145)/:&*don't()what(379,178)mul(188,515)$+@don't(),@where(526,553)!mul(297,406)$!where()mul(402,859)how(){<!]<~mul(488,557)mul(570,433)>>mul(435,196)where()@?^-%>select()mul(4?%/:>mul(579,464)+#when()}}$'!mul(997,496)*mul(307,914){why():how()[what()<?,don't()mul(170,862)when()~$;#why()+how()mul(377,975)-$~%-what()*}$mul(994,691)<-!'~*mul(160,609)>''>,why()when()$[{mul(145,574)?>mul(789,315)!,)+mul(266,109)select()!mul(885,712))^^&mul(610,195)!*who()mul(892,578)+*where() ]+what()select()^/mul(560,601)@'?(<mul(214,365)&how()who()@/where()'mul(840,310)why()^>)!::!<mul(475,358)?[#mul(197,145)$<what()where()>why()mul(630,917)*[mul(583,335)#?where())!{+,;what()do():~[&(,[!mul(5,120)from()mul(98,868)? {!mul(555,65)?~^when()where()mul(451,352)%<]from(746,31)mul(141,885)-mul(122,934)#who(636,694){>;@%{from()'mul(690,533)<//]when(),(~@from()mul(472,128)#*[mul(143,30)mul(121,540){what(): do()?mul(704,732)($(select()select()~what()mul(88,529)~;)'><^mul(676,840)}~<-what(421,598)*mul(550,833):){$ %mul(921,637)~(@$@how(193,897),:[mul(711,995)select()mul(107,767){&~mul(351,157)?!mul(188,958)}:mul(781,512)what(961,371)^@mul(148,962)where(270,721)!when(),when()>@what()mul(640,811){++-]/]-/mul(7,244){why()~/select():%:mul(842,953)who()$}who()^)mul(265'how()when()mul(39,60)]%mul(399,85)'/[don't() select())^mul(314,937) ][what()where(){~select()^when()mul(884,888)
+
+Current position: 0
+Active state: true
+Found mul: 1 at absolute position 26 (relative 26)
+Found dont: 1 at absolute position 905 (relative 905)
+Processing mul: 178*109=19402 sum=19402
+
+Current position: 27
+Active state: true
+Found mul: 1 at absolute position 38 (relative 11)
+Found dont: 1 at absolute position 905 (relative 878)
+Processing mul: 799*888=709512 sum=728914
+
+Current position: 39
+Active state: true
+Found mul: 1 at absolute position 61 (relative 22)
+Found dont: 1 at absolute position 905 (relative 866)
+Processing mul: 636*74=47064 sum=775978
+
+Current position: 62
+Active state: true
+Found mul: 1 at absolute position 79 (relative 17)
+Found dont: 1 at absolute position 905 (relative 843)
+Processing mul: 484*564=272976 sum=1048954
+
+Current position: 80
+Active state: true
+Found mul: 1 at absolute position 110 (relative 30)
+Found dont: 1 at absolute position 905 (relative 825)
+Processing mul: 559*305=170495 sum=1219449
+
+Current position: 111
+Active state: true
+Found mul: 1 at absolute position 131 (relative 20)
+Found dont: 1 at absolute position 905 (relative 794)
+Processing mul: 994*131=130214 sum=1349663
+
+Current position: 132
+Active state: true
+Found mul: 1 at absolute position 146 (relative 14)
+Found dont: 1 at absolute position 905 (relative 773)
+Processing mul: 242*758=183436 sum=1533099
+
+Current position: 147
+Active state: true
+Found mul: 1 at absolute position 188 (relative 41)
+Found dont: 1 at absolute position 905 (relative 758)
+Processing mul: 165*179=29535 sum=1562634
+
+Current position: 189
+Active state: true
+Found mul: 1 at absolute position 212 (relative 23)
+Found dont: 1 at absolute position 905 (relative 716)
+Processing mul: 178*438=77964 sum=1640598
+
+Current position: 213
+Active state: true
+Found mul: 1 at absolute position 232 (relative 19)
+Found dont: 1 at absolute position 905 (relative 692)
+Processing mul: 726*788=572088 sum=2212686
+
+Current position: 233
+Active state: true
+Found mul: 1 at absolute position 244 (relative 11)
+Found dont: 1 at absolute position 905 (relative 672)
+Processing mul: 466*85=39610 sum=2252296
+
+Current position: 245
+Active state: true
+Found mul: 1 at absolute position 256 (relative 11)
+Found dont: 1 at absolute position 905 (relative 660)
+Processing mul: 32*334=10688 sum=2262984
+
+Current position: 257
+Active state: true
+Found mul: 1 at absolute position 275 (relative 18)
+Found dont: 1 at absolute position 905 (relative 648)
+Processing mul: 796*940=748240 sum=3011224
+
+Current position: 276
+Active state: true
+Found mul: 1 at absolute position 287 (relative 11)
+Found dont: 1 at absolute position 905 (relative 629)
+Processing mul: 391*854=333914 sum=3345138
+
+Current position: 288
+Active state: true
+Found mul: 1 at absolute position 321 (relative 33)
+Found dont: 1 at absolute position 905 (relative 617)
+Processing mul: 652*996=649392 sum=3994530
+
+Current position: 322
+Active state: true
+Found mul: 1 at absolute position 344 (relative 22)
+Found dont: 1 at absolute position 905 (relative 583)
+Processing mul: 390*599=233610 sum=4228140
+
+Current position: 345
+Active state: true
+Found mul: 1 at absolute position 378 (relative 33)
+Found dont: 1 at absolute position 905 (relative 560)
+Processing mul: 496*458=227168 sum=4455308
+
+Current position: 379
+Active state: true
+Found mul: 1 at absolute position 411 (relative 32)
+Found dont: 1 at absolute position 905 (relative 526)
+Processing mul: 304*108=32832 sum=4488140
+
+Current position: 412
+Active state: true
+Found mul: 1 at absolute position 449 (relative 37)
+Found dont: 1 at absolute position 905 (relative 493)
+Processing mul: 916*266=243656 sum=4731796
+
+Current position: 450
+Active state: true
+Found mul: 1 at absolute position 472 (relative 22)
+Found dont: 1 at absolute position 905 (relative 455)
+Processing mul: 785*513=402705 sum=5134501
+
+Current position: 473
+Active state: true
+Found mul: 1 at absolute position 491 (relative 18)
+Found dont: 1 at absolute position 905 (relative 432)
+Processing mul: 854*23=19642 sum=5154143
+
+Current position: 492
+Active state: true
+Found mul: 1 at absolute position 502 (relative 10)
+Found dont: 1 at absolute position 905 (relative 413)
+Processing mul: 137*548=75076 sum=5229219
+
+Current position: 503
+Active state: true
+Found mul: 1 at absolute position 519 (relative 16)
+Found dont: 1 at absolute position 905 (relative 402)
+Processing mul: 764*451=344564 sum=5573783
+
+Current position: 520
+Active state: true
+Found mul: 1 at absolute position 531 (relative 11)
+Found dont: 1 at absolute position 905 (relative 385)
+Processing mul: 391*768=300288 sum=5874071
+
+Current position: 532
+Active state: true
+Found mul: 1 at absolute position 564 (relative 32)
+Found dont: 1 at absolute position 905 (relative 373)
+Processing mul: 617*146=90082 sum=5964153
+
+Current position: 565
+Active state: true
+Found mul: 1 at absolute position 599 (relative 34)
+Found dont: 1 at absolute position 905 (relative 340)
+Processing mul: 609*18=10962 sum=5975115
+
+Current position: 600
+Active state: true
+Found mul: 1 at absolute position 621 (relative 21)
+Found dont: 1 at absolute position 905 (relative 305)
+Processing mul: 17*331=5627 sum=5980742
+
+Current position: 622
+Active state: true
+Found mul: 1 at absolute position 664 (relative 42)
+Found dont: 1 at absolute position 905 (relative 283)
+Processing mul: 276*743=205068 sum=6185810
+
+Current position: 665
+Active state: true
+Found mul: 1 at absolute position 682 (relative 17)
+Found dont: 1 at absolute position 905 (relative 240)
+Processing mul: 89*923=82147 sum=6267957
+
+Current position: 683
+Active state: true
+Found mul: 1 at absolute position 721 (relative 38)
+Found dont: 1 at absolute position 905 (relative 222)
+Processing mul: 188*537=100956 sum=6368913
+
+Current position: 722
+Active state: true
+Found mul: 1 at absolute position 756 (relative 34)
+Found dont: 1 at absolute position 905 (relative 183)
+Processing mul: 326*794=258844 sum=6627757
+
+Current position: 757
+Active state: true
+Found mul: 1 at absolute position 790 (relative 33)
+Found dont: 1 at absolute position 905 (relative 148)
+Processing mul: 106*934=99004 sum=6726761
+
+Current position: 791
+Active state: true
+Found mul: 1 at absolute position 816 (relative 25)
+Found dont: 1 at absolute position 905 (relative 114)
+Processing mul: 690*660=455400 sum=7182161
+
+Current position: 817
+Active state: true
+Found mul: 1 at absolute position 845 (relative 28)
+Found dont: 1 at absolute position 905 (relative 88)
+Processing mul: 472*89=42008 sum=7224169
+
+Current position: 846
+Active state: true
+Found mul: 1 at absolute position 867 (relative 21)
+Found dont: 1 at absolute position 905 (relative 59)
+Processing mul: 902*82=73964 sum=7298133
+
+Current position: 868
+Active state: true
+Found mul: 1 at absolute position 879 (relative 11)
+Found dont: 1 at absolute position 905 (relative 37)
+Processing mul: 148*406=60088 sum=7358221
+
+Current position: 880
+Active state: true
+Found mul: 1 at absolute position 922 (relative 42)
+Found dont: 1 at absolute position 905 (relative 25)
+Found dont first, disabling
+
+Current position: 906
+Active state: false
+Looking for do(), found: 1 at position 1186
+Re-enabling
+
+Current position: 1187
+Active state: true
+Found mul: 1 at absolute position 1192 (relative 5)
+Found dont: 1 at absolute position 1399 (relative 212)
+Processing mul: 889*797=708533 sum=8066754
+
+Current position: 1193
+Active state: true
+Found mul: 1 at absolute position 1214 (relative 21)
+Found dont: 1 at absolute position 1399 (relative 206)
+Processing mul: 93*599=55707 sum=8122461
+
+Current position: 1215
+Active state: true
+Found mul: 1 at absolute position 1246 (relative 31)
+Found dont: 1 at absolute position 1399 (relative 184)
+Processing mul: 344*755=259720 sum=8382181
+
+Current position: 1247
+Active state: true
+Found mul: 1 at absolute position 1267 (relative 20)
+Found dont: 1 at absolute position 1399 (relative 152)
+Processing mul: 585*747=436995 sum=8819176
+
+Current position: 1268
+Active state: true
+Found mul: 1 at absolute position 1280 (relative 12)
+Found dont: 1 at absolute position 1399 (relative 131)
+Processing mul: 398*764=304072 sum=9123248
+
+Current position: 1281
+Active state: true
+Found mul: 1 at absolute position 1312 (relative 31)
+Found dont: 1 at absolute position 1399 (relative 118)
+Processing mul: 581*877=509537 sum=9632785
+
+Current position: 1313
+Active state: true
+Found mul: 1 at absolute position 1357 (relative 44)
+Found dont: 1 at absolute position 1399 (relative 86)
+Processing mul: 538*578=310964 sum=9943749
+
+Current position: 1358
+Active state: true
+Found mul: 1 at absolute position 1376 (relative 18)
+Found dont: 1 at absolute position 1399 (relative 41)
+Processing mul: 20*539=10780 sum=9954529
+
+Current position: 1377
+Active state: true
+Found mul: 1 at absolute position 1414 (relative 37)
+Found dont: 1 at absolute position 1399 (relative 22)
+Found dont first, disabling
+
+Current position: 1400
+Active state: false
+Looking for do(), found: 1 at position 2161
+Re-enabling
+
+Current position: 2162
+Active state: true
+Found mul: 1 at absolute position 2173 (relative 11)
+Found dont: 1 at absolute position 2788 (relative 626)
+Processing mul: 5*120=600 sum=9955129
+
+Current position: 2174
+Active state: true
+Found mul: 1 at absolute position 2189 (relative 15)
+Found dont: 1 at absolute position 2788 (relative 614)
+Processing mul: 98*868=85064 sum=10040193
+
+Current position: 2190
+Active state: true
+Found mul: 1 at absolute position 2204 (relative 14)
+Found dont: 1 at absolute position 2788 (relative 598)
+Processing mul: 555*65=36075 sum=10076268
+
+Current position: 2205
+Active state: true
+Found mul: 1 at absolute position 2231 (relative 26)
+Found dont: 1 at absolute position 2788 (relative 583)
+Processing mul: 451*352=158752 sum=10235020
+
+Current position: 2232
+Active state: true
+Found mul: 1 at absolute position 2258 (relative 26)
+Found dont: 1 at absolute position 2788 (relative 556)
+Processing mul: 141*885=124785 sum=10359805
+
+Current position: 2259
+Active state: true
+Found mul: 1 at absolute position 2271 (relative 12)
+Found dont: 1 at absolute position 2788 (relative 529)
+Processing mul: 122*934=113948 sum=10473753
+
+Current position: 2272
+Active state: true
+Found mul: 1 at absolute position 2309 (relative 37)
+Found dont: 1 at absolute position 2788 (relative 516)
+Processing mul: 690*533=367770 sum=10841523
+
+Current position: 2310
+Active state: true
+Found mul: 1 at absolute position 2341 (relative 31)
+Found dont: 1 at absolute position 2788 (relative 478)
+Processing mul: 472*128=60416 sum=10901939
+
+Current position: 2342
+Active state: true
+Found mul: 1 at absolute position 2356 (relative 14)
+Found dont: 1 at absolute position 2788 (relative 446)
+Processing mul: 143*30=4290 sum=10906229
+
+Current position: 2357
+Active state: true
+Found mul: 1 at absolute position 2367 (relative 10)
+Found dont: 1 at absolute position 2788 (relative 431)
+Processing mul: 121*540=65340 sum=10971569
+
+Current position: 2368
+Active state: true
+Found mul: 1 at absolute position 2393 (relative 25)
+Found dont: 1 at absolute position 2788 (relative 420)
+Processing mul: 704*732=515328 sum=11486897
+
+Current position: 2394
+Active state: true
+Found mul: 1 at absolute position 2431 (relative 37)
+Found dont: 1 at absolute position 2788 (relative 394)
+Processing mul: 88*529=46552 sum=11533449
+
+Current position: 2432
+Active state: true
+Found mul: 1 at absolute position 2449 (relative 17)
+Found dont: 1 at absolute position 2788 (relative 356)
+Processing mul: 676*840=567840 sum=12101289
+
+Current position: 2450
+Active state: true
+Found mul: 1 at absolute position 2479 (relative 29)
+Found dont: 1 at absolute position 2788 (relative 338)
+Processing mul: 550*833=458150 sum=12559439
+
+Current position: 2480
+Active state: true
+Found mul: 1 at absolute position 2497 (relative 17)
+Found dont: 1 at absolute position 2788 (relative 308)
+Processing mul: 921*637=586677 sum=13146116
+
+Current position: 2498
+Active state: true
+Found mul: 1 at absolute position 2529 (relative 31)
+Found dont: 1 at absolute position 2788 (relative 290)
+Processing mul: 711*995=707445 sum=13853561
+
+Current position: 2530
+Active state: true
+Found mul: 1 at absolute position 2549 (relative 19)
+Found dont: 1 at absolute position 2788 (relative 258)
+Processing mul: 107*767=82069 sum=13935630
+
+Current position: 2550
+Active state: true
+Found mul: 1 at absolute position 2564 (relative 14)
+Found dont: 1 at absolute position 2788 (relative 238)
+Processing mul: 351*157=55107 sum=13990737
+
+Current position: 2565
+Active state: true
+Found mul: 1 at absolute position 2578 (relative 13)
+Found dont: 1 at absolute position 2788 (relative 223)
+Processing mul: 188*958=180104 sum=14170841
+
+Current position: 2579
+Active state: true
+Found mul: 1 at absolute position 2592 (relative 13)
+Found dont: 1 at absolute position 2788 (relative 209)
+Processing mul: 781*512=399872 sum=14570713
+
+Current position: 2593
+Active state: true
+Found mul: 1 at absolute position 2619 (relative 26)
+Found dont: 1 at absolute position 2788 (relative 195)
+Processing mul: 148*962=142376 sum=14713089
+
+Current position: 2620
+Active state: true
+Found mul: 1 at absolute position 2667 (relative 47)
+Found dont: 1 at absolute position 2788 (relative 168)
+Processing mul: 640*811=519040 sum=15232129
+
+Current position: 2668
+Active state: true
+Found mul: 1 at absolute position 2688 (relative 20)
+Found dont: 1 at absolute position 2788 (relative 120)
+Processing mul: 7*244=1708 sum=15233837
+
+Current position: 2689
+Active state: true
+Found mul: 1 at absolute position 2717 (relative 28)
+Found dont: 1 at absolute position 2788 (relative 99)
+Processing mul: 842*953=802426 sum=16036263
+
+Current position: 2718
+Active state: true
+Found mul: 1 at absolute position 2762 (relative 44)
+Found dont: 1 at absolute position 2788 (relative 70)
+Processing mul: 39*60=2340 sum=16038603
+
+Current position: 2763
+Active state: true
+Found mul: 1 at absolute position 2774 (relative 11)
+Found dont: 1 at absolute position 2788 (relative 25)
+Processing mul: 399*85=33915 sum=16072518
+
+Current position: 2775
+Active state: true
+Found mul: 1 at absolute position 2806 (relative 31)
+Found dont: 1 at absolute position 2788 (relative 13)
+Found dont first, disabling
+
+Current position: 2789
+Active state: false
+Looking for do(), found: 0
+No do() found, breaking
+Final sum: 16072518
+Initial string: mul(935,879)%;]!]who()mul(511,968)&mul(529,394)when()mul(779,690)&$~@:from()mul(900,553)@don't()$>-@how()where()(#select()mul(714,939)where(200,556)>/ why()what()>-[!mul(581,4)$why()why();mul(769,428)'who()mul(561,314) {#/<^from()mul(50,184)}#*[how()how(){@'!mul(827,821)::-)}mul(779,557)from()why()where(682,979)%:%>mul(806,900)~&how();$why()mul(554,252)[/#^(from()~[&why()mul(70,686)mul]what()don't()-!mul(698,743)}+# ? *from()%~mul(318,624)^/mul(921,343)/^/select()mul(329,594)<')^(#mul(424,720)-'why()*why()&where()mul(665,924){!-~$don't()}:%(?&from(),#mul(105,692)~/~''how(771,222):>mul(296,616)+%'[??(^mul(790,296) >when()what()mul(271,491),when()-~%*do()what()%)!-'mul(914,243);from()&from()where(349,831)&@mul(360,913)mul(396,166)select()?'when(236,698),%-(select()mul(409,263)>]from()(/mul{where()>!), mul(954,312)>who()where()do(){select() why()mul(317,979)why()^do()mul(132,710)%#}mul )+' $mul(989,387)+:~%>(mul(209,606)what()<)*#:mul(37,222);)!why(756,194)'mul(604,71)?+ +what()$]@don't();+mul(613,127)who()}[how(195,543)select(){-)('mul(879,421]select()mul(380,232);?[%;^>>mul(46,941)#,'where(),mul(149,205)where()^from()&)[who()mul(337,461)why()],how()%don't()]@'from(463,678){mul(59,532)when()mul(517,186)how();when()*do()]'/(,mul(195,769){how()##;!%*)don't()#+mul(449,953)%#who()]+@$;mul(25,123)$^what();don't()<who()where(353,919)(mul(507,127),!why()-)select()mul(877,96)^mul(336,330)*?mul(586,329) {/mul(777,773)/ ?/#when()&mul(623,804)^+,+-mul(551,935),[mul(896,32)} when()(~mul(781,541)](){from()'){mul(265,990):$%+why()) '[(mul(793,705)}why()' %<$(-+mul(779,734)what()who(185,147)when()?where()@mul(615,204) #from(976,635)?mul(430,577)/~>why()why()why()what()mul(631,446);^[[{~! )mul(379,911):why()-why()who()mul(45,209)when()%who()~-[mul(752,243)$who()!}] !mul(624,570)[why()mul(587,283)#>[select()what()mul(581,554)who()from()mul(39,13) <mul(360,384)@-){*<mul(381,140)>*$}-mul(720,140)- /;{-why()mul(989,958)where()^@select(243,837):}mul(87,422)!%when()who()>]mul(285,451)*how()mul(427,132)how(){&;from()]<&mul(670,229)+how(809,912),{who()mul(512,888))^)}*)/mul(83,730)mul(525,735)what()#}who()mul(867,63){^&,})- mul(544,377)%{$mul(870,448)from()select()%&:>^:!how()mul(119,830):*:?+'<['mul(106,75) }when()don't()<> why()mul(447,647):+[^- <mul(918,729):;~:why()[?mul(812,791)what()~>(select()}mul(684,895)why()what()&:mul(656,707)mul(173,797)}select()@]&when():mul(443,217)where()):why()who(),what()!%mul(765,579),%how()select(318,144),<'mul(377,695)from()]&mul(308,501)what()(mul(687,75)&mul(182,18)*how()/:;mul(518,469)where(215,786)]$$+!mul(959,580); from()how()how()%%mul(494,77)what()@]^>@*mul(718,497)where(){where(866,131)who()mul(415,333)})?{mul(467,647)who()who():~{how(945,509)mul(82,421)mul(438,580)!:-[+}when()!mul(583,479)@@why()-why()where()<do()#what()]why()how()mul(297,179)#how()[&}:#select(),mul(111,570)~']why(641,197)what()^mul(923,44)$where():who()^ why()?,
+
+Current position: 0
+Active state: true
+Found mul: 1 at absolute position 0 (relative 0)
+Found dont: 1 at absolute position 89 (relative 89)
+Processing mul: 935*879=821865 sum=821865
+
+Current position: 1
+Active state: true
+Found mul: 1 at absolute position 22 (relative 21)
+Found dont: 1 at absolute position 89 (relative 88)
+Processing mul: 511*968=494648 sum=1316513
+
+Current position: 23
+Active state: true
+Found mul: 1 at absolute position 35 (relative 12)
+Found dont: 1 at absolute position 89 (relative 66)
+Processing mul: 529*394=208426 sum=1524939
+
+Current position: 36
+Active state: true
+Found mul: 1 at absolute position 53 (relative 17)
+Found dont: 1 at absolute position 89 (relative 53)
+Processing mul: 779*690=537510 sum=2062449
+
+Current position: 54
+Active state: true
+Found mul: 1 at absolute position 76 (relative 22)
+Found dont: 1 at absolute position 89 (relative 35)
+Processing mul: 900*553=497700 sum=2560149
+
+Current position: 77
+Active state: true
+Found mul: 1 at absolute position 122 (relative 45)
+Found dont: 1 at absolute position 89 (relative 12)
+Found dont first, disabling
+
+Current position: 90
+Active state: false
+Looking for do(), found: 1 at position 657
+Re-enabling
+
+Current position: 658
+Active state: true
+Found mul: 1 at absolute position 672 (relative 14)
+Found dont: 1 at absolute position 993 (relative 335)
+Processing mul: 914*243=222102 sum=2782251
+
+Current position: 673
+Active state: true
+Found mul: 1 at absolute position 714 (relative 41)
+Found dont: 1 at absolute position 993 (relative 320)
+Processing mul: 360*913=328680 sum=3110931
+
+Current position: 715
+Active state: true
+Found mul: 1 at absolute position 726 (relative 11)
+Found dont: 1 at absolute position 993 (relative 278)
+Processing mul: 396*166=65736 sum=3176667
+
+Current position: 727
+Active state: true
+Found mul: 1 at absolute position 773 (relative 46)
+Found dont: 1 at absolute position 993 (relative 266)
+Processing mul: 409*263=107567 sum=3284234
+
+Current position: 774
+Active state: true
+Found mul: 1 at absolute position 811 (relative 37)
+Found dont: 1 at absolute position 993 (relative 219)
+Processing mul: 954*312=297648 sum=3581882
+
+Current position: 812
+Active state: true
+Found mul: 1 at absolute position 855 (relative 43)
+Found dont: 1 at absolute position 993 (relative 181)
+Processing mul: 317*979=310343 sum=3892225
+
+Current position: 856
+Active state: true
+Found mul: 1 at absolute position 877 (relative 21)
+Found dont: 1 at absolute position 993 (relative 137)
+Processing mul: 132*710=93720 sum=3985945
+
+Current position: 878
+Active state: true
+Found mul: 1 at absolute position 901 (relative 23)
+Found dont: 1 at absolute position 993 (relative 115)
+Processing mul: 989*387=382743 sum=4368688
+
+Current position: 902
+Active state: true
+Found mul: 1 at absolute position 919 (relative 17)
+Found dont: 1 at absolute position 993 (relative 91)
+Processing mul: 209*606=126654 sum=4495342
+
+Current position: 920
+Active state: true
+Found mul: 1 at absolute position 942 (relative 22)
+Found dont: 1 at absolute position 993 (relative 73)
+Processing mul: 37*222=8214 sum=4503556
+
+Current position: 943
+Active state: true
+Found mul: 1 at absolute position 969 (relative 26)
+Found dont: 1 at absolute position 993 (relative 50)
+Processing mul: 604*71=42884 sum=4546440
+
+Current position: 970
+Active state: true
+Found mul: 1 at absolute position 1002 (relative 32)
+Found dont: 1 at absolute position 993 (relative 23)
+Found dont first, disabling
+
+Current position: 994
+Active state: false
+Looking for do(), found: 1 at position 1233
+Re-enabling
+
+Current position: 1234
+Active state: true
+Found mul: 1 at absolute position 1242 (relative 8)
+Found dont: 1 at absolute position 1267 (relative 33)
+Processing mul: 195*769=149955 sum=4696395
+
+Current position: 1243
+Active state: true
+Found mul: 1 at absolute position 1276 (relative 33)
+Found dont: 1 at absolute position 1267 (relative 24)
+Found dont first, disabling
+
+Current position: 1268
+Active state: false
+Looking for do(), found: 1 at position 2779
+Re-enabling
+
+Current position: 2780
+Active state: true
+Found mul: 1 at absolute position 2801 (relative 21)
+Found dont: 0
+Processing mul: 297*179=53163 sum=4749558
+
+Current position: 2802
+Active state: true
+Found mul: 1 at absolute position 2833 (relative 31)
+Found dont: 0
+Processing mul: 111*570=63270 sum=4812828
+
+Current position: 2834
+Active state: true
+Found mul: 1 at absolute position 2867 (relative 33)
+Found dont: 0
+Processing mul: 923*44=40612 sum=4853440
+
+Current position: 2868
+Active state: true
+Found mul: 0
+Found dont: 0
+No patterns found, breaking
+Final sum: 4853440
+107991598
