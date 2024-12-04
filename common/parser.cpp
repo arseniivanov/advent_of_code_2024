@@ -23,6 +23,33 @@ std::vector<std::string> Parser::parse_input(std::vector<char> &buffer,
   return out;
 }
 
+std::vector<std::vector<int>>
+Parser::parse_input_to_int(std::vector<char> &buffer, char delimiter) {
+  std::vector<std::vector<int>> out;
+  size_t start = 0;
+
+  int row = 0;
+  for (size_t i = 0; i < buffer.size(); i++) {
+    if (buffer[i] == delimiter) {
+      std::string_view view(&buffer[start], i - start);
+      for (int j = 0; j < view.size(); j++) {
+        out[row].push_back((int)view[j]);
+      }
+      start = i + 1;
+      row += 1;
+    }
+  }
+
+  if (start < buffer.size()) {
+    std::string_view view(&buffer[start], buffer.size() - start);
+    for (int j = 0; j < view.size(); j++) {
+      out[row].push_back((int)view[j]);
+    }
+  }
+
+  return out;
+}
+
 std::vector<char> Parser::read_file(const std::filesystem::path &input_path) {
   std::ifstream file(input_path, std::ios::binary | std::ios::ate);
   if (!file.is_open()) {
