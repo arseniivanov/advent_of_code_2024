@@ -4,11 +4,75 @@
 #include <cstdint>
 #include <cuda_runtime.h>
 #include <iostream>
+#include <numeric>
 
-__global__ void compute_kernel(const int32_t *__restrict__ first,
-                               const int32_t *__restrict__ second,
-                               int32_t *partial_sums, int n) {}
+__global__ void pattern_match_140(const int32_t *matrix, int pitch,
+                                  int32_t *pattern, int pattern_length,
+                                  int32_t *partial_sums) {
+  extern __shared__ int32_t sdata[];
+  int tid = threadIdx.x;
+  int row = blockIdx.x; // Each block handles one row
 
+  int32_t local_sum = 0;
+  // Each thread processes multiple elements in the row
+  for (int col = tid; col < 140 - pattern_length + 1; col += blockDim.x) {
+    bool match = true;
+    for (int p = 0; p < pattern_length && match; p++) {
+      if (matrix[row * pitch + col + p] != pattern[p]) {
+        match = false;
+      }
+    }
+    local_sum += match ? 1 : 0;
+  }
+
+  // Shared memory reduction
+  sdata[tid] = local_sum;
+  __syncthreads();
+
+  for (int s = blockDim.x / 2; s > 0; s >>= 1) {
+    if (tid < s) {
+      sdata[tid] += sdata[tid + s];
+    }
+    __syncthreads();
+  }
+
+  if (tid == 0)
+    partial_sums[row] = sdata[0];
+}
+
+__global__ void pattern_match_280(const int32_t *matrix, int pitch,
+                                  int32_t *pattern, int pattern_length,
+                                  int32_t *partial_sums) {
+  extern __shared__ int32_t sdata[];
+  int tid = threadIdx.x;
+  int row = blockIdx.x; // Each block handles one row
+
+  int32_t local_sum = 0;
+  // Each thread processes multiple elements in the row
+  for (int col = tid; col < 280 - pattern_length + 1; col += blockDim.x) {
+    bool match = true;
+    for (int p = 0; p < pattern_length && match; p++) {
+      if (matrix[row * pitch + col + p] != pattern[p]) {
+        match = false;
+      }
+    }
+    local_sum += match ? 1 : 0;
+  }
+
+  // Shared memory reduction
+  sdata[tid] = local_sum;
+  __syncthreads();
+
+  for (int s = blockDim.x / 2; s > 0; s >>= 1) {
+    if (tid < s) {
+      sdata[tid] += sdata[tid + s];
+    }
+    __syncthreads();
+  }
+
+  if (tid == 0)
+    partial_sums[row] = sdata[0];
+}
 std::vector<std::vector<int>>
 rotate_90_clockwise(const std::vector<std::vector<int>> &matrix) {
   int n = matrix.size();
@@ -25,8 +89,12 @@ rotate_90_clockwise(const std::vector<std::vector<int>> &matrix) {
 std::vector<std::vector<int>>
 get_diagonal_transform(const std::vector<std::vector<int>> &matrix) {
   int n = matrix.size();
-  std::vector<std::vector<int>> diag(n, std::vector<int>(n));
-  // TODO
+  std::vector<std::vector<int>> diag(2 * n, std::vector<int>(2 * n, 0));
+  for (int i = 0; i < n; i++) {
+    for (int j = 0; j < n; j++) {
+      diag[i + j + 1][-i + j + n] = matrix[i][j];
+    }
+  }
   return diag;
 }
 
@@ -53,37 +121,87 @@ int main() {
 
   auto perms = get_rotations(mat);
 
-  // TOOD
-  int32_t *d_first, *d_second;
+  std::vector<int32_t> pattern = {88, 77, 65, 83}; // Your pattern here
+  int pattern_length = pattern.size();
 
-  cudaMalloc(&d_first, fst_col.size() * sizeof(int32_t));
-  cudaMalloc(&d_second, snd_col.size() * sizeof(int32_t));
-
-  cudaMemcpy(d_first, fst_col.data(), fst_col.size() * sizeof(int32_t),
-             cudaMemcpyHostToDevice);
-  cudaMemcpy(d_second, snd_col.data(), snd_col.size() * sizeof(int32_t),
+  int32_t *d_pattern;
+  cudaMalloc(&d_pattern, pattern_length * sizeof(int32_t));
+  cudaMemcpy(d_pattern, pattern.data(), pattern_length * sizeof(int32_t),
              cudaMemcpyHostToDevice);
 
-  int n = 1000;
-  dim3 block(256);
-  dim3 grid((n + block.x - 1) / block.x);
+  int32_t *d_matrices[8];
+  int32_t *d_results[8];
+  int pitches[8];
 
-  int32_t *d_partial_sums;
-  cudaMalloc(&d_partial_sums, grid.x * sizeof(int32_t));
-  compute_kernel<<<grid, block>>>(d_first, d_second, d_partial_sums, n);
+  int32_t mat1_size = perms[0].size() * perms[0].size();
+  int32_t mat2_size = perms[1].size() * perms[1].size();
 
-  int32_t *h_partial_sums = new int32_t[grid.x];
-  cudaMemcpy(h_partial_sums, d_partial_sums, grid.x * sizeof(int32_t),
-             cudaMemcpyDeviceToHost);
+  for (int i = 0; i < 8; i += 2) {
+    size_t pitch;
+    cudaMallocPitch(&d_matrices[i], &pitch, 140 * sizeof(int32_t), 140);
+    pitches[i] = pitch / sizeof(int32_t);
+    cudaMalloc(&d_results[i], 140 * sizeof(int32_t)); // One sum per row
 
-  int32_t sum = 0;
-  for (int i = 0; i < grid.x; i++) {
-    sum += h_partial_sums[i];
+    cudaMemcpy2D(d_matrices[i], pitch, perms[i].data(), 140 * sizeof(int32_t),
+                 140 * sizeof(int32_t), 140, cudaMemcpyHostToDevice);
   }
-  std::cout << sum << "\n";
 
-  cudaFree(d_first);
-  cudaFree(d_second);
-  cudaFree(d_partial_sums);
-  delete[] h_partial_sums;
+  for (int i = 1; i < 8; i += 2) {
+    size_t pitch;
+    cudaMallocPitch(&d_matrices[i], &pitch, 280 * sizeof(int32_t), 280);
+    pitches[i] = pitch / sizeof(int32_t);
+    cudaMalloc(&d_results[i], 280 * sizeof(int32_t));
+
+    cudaMemcpy2D(d_matrices[i], pitch, perms[i].data(), 280 * sizeof(int32_t),
+                 280 * sizeof(int32_t), 280, cudaMemcpyHostToDevice);
+  }
+
+  dim3 block_140(256);
+  dim3 grid_140(140); // One block per row
+
+  dim3 block_280(256);
+  dim3 grid_280(280);
+
+  // Launch kernels
+  for (int i = 0; i < 8; i += 2) {
+    pattern_match_140<<<grid_140, block_140, block_140.x * sizeof(int32_t)>>>(
+        d_matrices[i], pitches[i], d_pattern, pattern_length, d_results[i]);
+  }
+
+  for (int i = 1; i < 8; i += 2) {
+    pattern_match_280<<<grid_280, block_280, block_280.x * sizeof(int32_t)>>>(
+        d_matrices[i], pitches[i], d_pattern, pattern_length, d_results[i]);
+  }
+
+  // Collect results
+  std::vector<int32_t> total_matches(8, 0);
+  for (int i = 0; i < 4; i++) {
+    std::vector<int32_t> row_matches(140);
+    cudaMemcpy(row_matches.data(), d_results[i], 140 * sizeof(int32_t),
+               cudaMemcpyDeviceToHost);
+    total_matches[i] =
+        std::accumulate(row_matches.begin(), row_matches.end(), 0);
+  }
+
+  for (int i = 4; i < 8; i++) {
+    std::vector<int32_t> row_matches(280);
+    cudaMemcpy(row_matches.data(), d_results[i], 280 * sizeof(int32_t),
+               cudaMemcpyDeviceToHost);
+    total_matches[i] =
+        std::accumulate(row_matches.begin(), row_matches.end(), 0);
+  }
+
+  // Cleanup
+  cudaFree(d_pattern);
+  for (int i = 0; i < 8; i++) {
+    cudaFree(d_matrices[i]);
+    cudaFree(d_results[i]);
+  }
+
+  // Print results
+  int sum = 0;
+  for (int i = 0; i < 8; i++) {
+    sum += total_matches[i];
+  }
+  std::cout << "Matches: " << sum << "\n";
 }
