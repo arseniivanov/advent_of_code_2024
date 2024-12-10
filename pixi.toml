@@ -1,0 +1,27 @@
+[project]
+name = "triton_research"
+version = "0.1.0"
+description = "Triton and Pytorch env for research and benchmarking"
+channels = ["pytorch","conda-forge"]
+platforms = ["linux-64"]
+[dependencies]
+python = ">=3.10"
+pytorch = ">=2.2.0"
+torchvision = "*"
+torchaudio = "*"
+cmake = ">=3.24"
+ninja = "*"
+numpy = "*"
+pandas = "*"
+matplotlib = "*"
+jupyter = "*"
+ipython = "*"
+pip = "*"
+pkg-config = "*"
+[pypi-dependencies]
+triton = ">=3.1.0"
+[tasks]
+start = { cmd = "ipython" }
+notebook = { cmd = "jupyter notebook" }
+test-gpu = { cmd = "python -c 'import torch; import triton; print(f\"CUDA available: {torch.cuda.is_available()}\"); print(f\"Triton version: {triton.version}\")'" }
+benchmark = { cmd = "python -m triton benchmark" }
